@@ -49,9 +49,11 @@ I'm a DevOps/Platform Engineer passionate about cloud-native technologies and op
 I'm an active contributor to:
 
 - **[KEDA](https://github.com/kedacore/keda)** - Kubernetes Event-driven Autoscaling
+- **[OpenImageIO](https://github.com/AcademySoftwareFoundation/OpenImageIO)** - Image processing library (Academy Software Foundation)
+- **[OpenTelemetry](https://github.com/open-telemetry/opentelemetry.io)** - Observability framework documentation (CNCF)
 - **[RAWtoACES](https://github.com/AcademySoftwareFoundation/rawtoaces)** - RAW to ACES image conversion (Academy Software Foundation)
 
-Always looking to contribute to more **CNCF projects** in the future!
+Always looking to contribute to more **CNCF** and **ASWF** projects!
 
 ## 🤖 Interests
 
