@@ -29,6 +29,7 @@ Actively contributing to **CNCF** and **Academy Software Foundation (ASWF)** pro
 - **[OpenTelemetry](https://github.com/open-telemetry/opentelemetry.io)** - Observability framework documentation (CNCF) - [docs(dotnet): Add troubleshooting page with self-diagnostics instructions](https://github.com/open-telemetry/opentelemetry.io/pull/8632)
 - **[RAWtoACES](https://github.com/AcademySoftwareFoundation/rawtoaces)** - RAW to ACES image conversion (Academy Software Foundation) - [Adding build developer documentation](https://github.com/AcademySoftwareFoundation/rawtoaces/pull/222)
 - **[xSTUDIO](https://github.com/AcademySoftwareFoundation/xstudio)** - Playback and review application (Academy Software Foundation) - [fix(docs): Correct broken build guide links in README](https://github.com/AcademySoftwareFoundation/xstudio/pull/186)
+- **[Metal³](https://github.com/metal3-io/metal3-docs)** - Bare metal host provisioning for Kubernetes (CNCF) - [docs: Fix redirect links in tryit.md](https://github.com/metal3-io/metal3-docs/pull/624)
 
 Committed to giving back to the open source community and always exploring new projects to contribute to!
 
