@@ -1,5 +1,7 @@
 # Hi there, I'm Pavan 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=pmady&color=blue&style=flat)
+
 ## About Me
 
 Senior DevOps/Platform Engineer with deep expertise in cloud-native technologies, Kubernetes ecosystems, and infrastructure automation. Passionate about building scalable, resilient systems and contributing to open source communities.
