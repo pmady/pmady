@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavanmadduri/)
 [![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://pavanmadduri.wordpress.com/)
-![Profile Views](https://komarev.com/ghpvc/?username=pmady&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=pmady&color=blue&style=for-the-badge)
 
 ## About Me
 
