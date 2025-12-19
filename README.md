@@ -1,5 +1,7 @@
 # Hi there, I'm Pavan 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavanmadduri/)
+[![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://pavanmadduri.wordpress.com/)
 ![Profile Views](https://komarev.com/ghpvc/?username=pmady&color=blue&style=flat)
 
 ## About Me
@@ -10,9 +12,9 @@ Senior DevOps/Platform Engineer with deep expertise in cloud-native technologies
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmady&show_icons=true&include_all_commits=true&count_private=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pmady&layout=compact&langs_count=8)
-
 ## 🏆 Certifications
+
+<img src="https://www.cncf.io/wp-content/uploads/2021/09/kubestronaut-stacked-color.svg" alt="Kubestronaut" width="150" align="right"/>
 
 **Kubestronaut** - One of the elite professionals who have achieved all five Kubernetes certifications from the CNCF:
 
