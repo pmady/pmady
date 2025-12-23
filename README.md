@@ -14,7 +14,7 @@ Senior DevOps/Platform Engineer with deep expertise in cloud-native technologies
 
 ## 🏆 Certifications
 
-<img src="https://www.cncf.io/wp-content/uploads/2021/09/kubestronaut-stacked-color.svg" alt="Kubestronaut" width="150" align="right"/>
+<img src="https://www.cncf.io/training/kubestronaut/?p=pavan-madduri" alt="Kubestronaut" width="150" align="right"/>
 
 **Kubestronaut** - One of the elite professionals who have achieved all five Kubernetes certifications from the CNCF:
 
