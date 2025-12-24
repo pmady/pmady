@@ -26,9 +26,9 @@ Senior DevOps/Platform Engineer with deep expertise in cloud-native technologies
 
 ## 🌱 Open Source Contributions
 
-Actively contributing to **CNCF**, **Academy Software Foundation (ASWF)**, and **CNCF Sandbox** projects:
+Actively contributing to **CNCF (Cloud Native Computing Foundation)** and **ASWF (Academy Software Foundation)** projects:
 
-### Cloud Native & Infrastructure
+### CNCF (Cloud Native Computing Foundation)
 
 - **[Dragonfly](https://github.com/dragonflyoss/dragonfly)** - P2P-based file distribution and image acceleration system (CNCF) - [Feature: Integrate Dragonfly Injector webhook](https://github.com/dragonflyoss/dragonfly/pull/4524)
 - **[TiKV](https://github.com/tikv/tikv)** - Distributed transactional key-value database (CNCF) - [docs: Add AGENTS.md for AI agent guidance](https://github.com/tikv/tikv/pull/18451)
@@ -36,7 +36,7 @@ Actively contributing to **CNCF**, **Academy Software Foundation (ASWF)**, and *
 - **[Metal³](https://github.com/metal3-io/metal3-docs)** - Bare metal host provisioning for Kubernetes (CNCF) - [docs: Fix redirect links in tryit.md](https://github.com/metal3-io/metal3-docs/pull/624)
 - **[OpenTelemetry](https://github.com/open-telemetry/opentelemetry.io)** - Observability framework documentation (CNCF) - [docs(dotnet): Add troubleshooting page with self-diagnostics instructions](https://github.com/open-telemetry/opentelemetry.io/pull/8632)
 
-### Media & Entertainment (ASWF)
+### ASWF (Academy Software Foundation)
 
 - **[OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)** - Cloud rendering management system (Academy Software Foundation) - [docs: Add Docker setup for building documentation](https://github.com/AcademySoftwareFoundation/OpenCue/pull/1551)
 
