@@ -38,6 +38,8 @@ Actively contributing to **CNCF**, **Academy Software Foundation (ASWF)**, and *
 
 ### Media & Entertainment (ASWF)
 
+- **[OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)** - Cloud rendering management system (Academy Software Foundation) - [docs: Add Docker setup for building documentation](https://github.com/AcademySoftwareFoundation/OpenCue/pull/1551)
+
 - **[OpenImageIO](https://github.com/AcademySoftwareFoundation/OpenImageIO)** - Image processing library (Academy Software Foundation) - [fix(IBA): IBA::compare_Yee() accessed the wrong channel](https://github.com/AcademySoftwareFoundation/OpenImageIO/pull/4976)
 - **[RAWtoACES](https://github.com/AcademySoftwareFoundation/rawtoaces)** - RAW to ACES image conversion (Academy Software Foundation) - [Adding build developer documentation](https://github.com/AcademySoftwareFoundation/rawtoaces/pull/222)
 - **[xSTUDIO](https://github.com/AcademySoftwareFoundation/xstudio)** - Playback and review application (Academy Software Foundation) - [fix(docs): Correct broken build guide links in README](https://github.com/AcademySoftwareFoundation/xstudio/pull/186)
