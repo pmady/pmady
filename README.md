@@ -26,14 +26,21 @@ Senior DevOps/Platform Engineer with deep expertise in cloud-native technologies
 
 ## 🌱 Open Source Contributions
 
-Actively contributing to **CNCF** and **Academy Software Foundation (ASWF)** projects:
+Actively contributing to **CNCF**, **Academy Software Foundation (ASWF)**, and **CNCF Sandbox** projects:
 
+### Cloud Native & Infrastructure
+
+- **[Dragonfly](https://github.com/dragonflyoss/dragonfly)** - P2P-based file distribution and image acceleration system (CNCF) - [Feature: Integrate Dragonfly Injector webhook](https://github.com/dragonflyoss/dragonfly/pull/4524)
+- **[TiKV](https://github.com/tikv/tikv)** - Distributed transactional key-value database (CNCF) - [docs: Add AGENTS.md for AI agent guidance](https://github.com/tikv/tikv/pull/18451)
 - **[KEDA](https://github.com/kedacore/keda-docs)** - Kubernetes Event-driven Autoscaling (CNCF) - [Fix/kafka lagthreshold description](https://github.com/kedacore/keda-docs/pull/1663)
-- **[OpenImageIO](https://github.com/AcademySoftwareFoundation/OpenImageIO)** - Image processing library (Academy Software Foundation) - [fix(IBA): IBA::compare_Yee() accessed the wrong channel](https://github.com/AcademySoftwareFoundation/OpenImageIO/pull/4976)
+- **[Metal³](https://github.com/metal3-io/metal3-docs)** - Bare metal host provisioning for Kubernetes (CNCF) - [docs: Fix redirect links in tryit.md](https://github.com/metal3-io/metal3-docs/pull/624)
 - **[OpenTelemetry](https://github.com/open-telemetry/opentelemetry.io)** - Observability framework documentation (CNCF) - [docs(dotnet): Add troubleshooting page with self-diagnostics instructions](https://github.com/open-telemetry/opentelemetry.io/pull/8632)
+
+### Media & Entertainment (ASWF)
+
+- **[OpenImageIO](https://github.com/AcademySoftwareFoundation/OpenImageIO)** - Image processing library (Academy Software Foundation) - [fix(IBA): IBA::compare_Yee() accessed the wrong channel](https://github.com/AcademySoftwareFoundation/OpenImageIO/pull/4976)
 - **[RAWtoACES](https://github.com/AcademySoftwareFoundation/rawtoaces)** - RAW to ACES image conversion (Academy Software Foundation) - [Adding build developer documentation](https://github.com/AcademySoftwareFoundation/rawtoaces/pull/222)
 - **[xSTUDIO](https://github.com/AcademySoftwareFoundation/xstudio)** - Playback and review application (Academy Software Foundation) - [fix(docs): Correct broken build guide links in README](https://github.com/AcademySoftwareFoundation/xstudio/pull/186)
-- **[Metal³](https://github.com/metal3-io/metal3-docs)** - Bare metal host provisioning for Kubernetes (CNCF) - [docs: Fix redirect links in tryit.md](https://github.com/metal3-io/metal3-docs/pull/624)
 
 Committed to giving back to the open source community and always exploring new projects to contribute to!
 
