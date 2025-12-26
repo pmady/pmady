@@ -10,14 +10,11 @@ Senior DevOps/Platform Engineer with deep expertise in cloud-native technologies
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/pmady">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pmady&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmady&layout=compact&theme=github_dark&langs_count=8"/>
-</a>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pmady&theme=github-compact)
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=pmady&theme=github-dark-blue" alt="GitHub Streak"/>
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=pmady&theme=transparent)](https://git.io/streak-stats)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pmady&theme=flat&no-frame=true&margin-w=10)
 
 ## 🏆 Certifications
 
