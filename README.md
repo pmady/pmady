@@ -10,11 +10,16 @@ Senior DevOps/Platform Engineer with deep expertise in cloud-native technologies
 
 ## 📊 GitHub Stats
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pmady&theme=github-compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pmady/pmady/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pmady/pmady/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pmady/pmady/output/github-contribution-grid-snake.svg">
+</picture>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pmady&theme=transparent)](https://git.io/streak-stats)
+| ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pmady&theme=github_dark) | ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pmady&theme=github_dark) |
+| --- | --- |
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pmady&theme=flat&no-frame=true&margin-w=10)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pmady&theme=github_dark)
 
 ## 🏆 Certifications
 
