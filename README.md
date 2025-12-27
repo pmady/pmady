@@ -10,17 +10,9 @@ Senior DevOps/Platform Engineer with deep expertise in cloud-native technologies
 
 ## 📊 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pmady/pmady/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pmady/pmady/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pmady/pmady/output/github-contribution-grid-snake.svg">
-</picture>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmady&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&rank_icon=github)](https://github.com/pmady)
 
-| ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pmady&theme=github_dark) | ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pmady&theme=github_dark) |
-| --- | --- |
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pmady&theme=github_dark)
-
+*Stats updated on 2025-12-27 00:43 UTC*
 ## 🏆 Certifications
 
 <img src="https://www.cncf.io/training/kubestronaut/?p=pavan-madduri" alt="Kubestronaut" width="150" align="right"/>
