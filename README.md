@@ -27,6 +27,8 @@ Senior DevOps/Platform Engineer with deep expertise in cloud-native technologies
 
 ## 🌱 Open Source Contributions
 
+[![CNCF Contributor](https://img.shields.io/badge/CNCF-Contributor-172B4D?logo=cncf&style=for-the-badge)](https://www.cncf.io/people/contributors/)
+
 Actively contributing to **CNCF (Cloud Native Computing Foundation)** and **ASWF (Academy Software Foundation)** projects:
 
 ### CNCF (Cloud Native Computing Foundation)
