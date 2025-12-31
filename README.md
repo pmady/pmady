@@ -11,24 +11,31 @@ Senior DevOps/Platform Engineer with deep expertise in cloud-native technologies
 ## 📊 GitHub Stats
 
 ### 🏆 Overall Performance
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmady&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&rank_icon=github)](https://github.com/pmady/github-readme-stats)
 
 ### 📈 Activity & Contributions
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=pmady&theme=default&hide_border=true&background=00000000)](https://git.io/streak-stats)
 
 ### 💻 Top Languages & Projects
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pmady&layout=compact&theme=default&hide_border=true&bg_color=00000000&langs_count=8)](https://github.com/pmady/github-readme-stats)
 
 ### 🚀 Most Used Languages
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmady&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&card_width=495&hide_title=true)](https://github.com/pmady/github-readme-stats)
 
 ### 🏅 GitHub Trophies
+
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pmady&theme=default&no-frame=true&no-bg=true&margin-w=4)](https://github.com/pmady/github-profile-trophy)
 
 ### 🎯 Activity Graph
+
 [![Pavan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pmady&theme=default&bg_color=00000000&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true)](https://github.com/pmady/github-readme-activity-graph)
 
 ### 📊 Productivity Stats
+
 [![Pavan's GitHub metrics](https://github-readme-stats.vercel.app/api?username=pmady&theme=default&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&bg_color=00000000)](https://github.com/pmady/github-readme-stats)
 ## 🏆 Certifications
 
