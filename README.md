@@ -12,7 +12,7 @@ Senior DevOps/Platform Engineer with deep expertise in cloud-native technologies
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmady&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&rank_icon=github)](https://github.com/pmady)
 
-*Stats updated on 2025-12-31 00:45 UTC*
+*Stats updated on 2025-12-31 12:17 UTC*
 ## 🏆 Certifications
 
 <img src="https://www.cncf.io/training/kubestronaut/?p=pavan-madduri" alt="Kubestronaut" width="150" align="right"/>
