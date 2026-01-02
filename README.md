@@ -37,6 +37,7 @@ Actively contributing to **CNCF (Cloud Native Computing Foundation)** and **ASWF
 |---------|-------------|---------------|
 | **[Dragonfly](https://github.com/dragonflyoss/dragonfly)** | P2P-based file distribution and image acceleration | [#4524](https://github.com/dragonflyoss/dragonfly/pull/4524) - Integrate Dragonfly Injector webhook |
 | **[Dragonfly Helm Charts](https://github.com/dragonflyoss/helm-charts)** | Helm charts for Dragonfly deployment | [#455](https://github.com/dragonflyoss/helm-charts/pull/455) - Add Dragonfly Injector helm chart |
+| **[Kubernetes](https://github.com/kubernetes/website)** | Production-Grade Container Orchestration | [#53891](https://github.com/kubernetes/website/pull/53891) - Document deployment.kubernetes.io/* annotations |
 | **[TiKV](https://github.com/tikv/tikv)** | Distributed transactional key-value database | [#18451](https://github.com/tikv/tikv/pull/18451) - Add AGENTS.md for AI agent guidance |
 | **[KEDA](https://github.com/kedacore/keda-docs)** | Kubernetes Event-driven Autoscaling | [#1663](https://github.com/kedacore/keda-docs/pull/1663) - Fix kafka lagthreshold description |
 | **[Metal³](https://github.com/metal3-io/metal3-docs)** | Bare metal host provisioning for Kubernetes | [#624](https://github.com/metal3-io/metal3-docs/pull/624) - Fix redirect links in tryit.md |
@@ -52,7 +53,7 @@ Actively contributing to **CNCF (Cloud Native Computing Foundation)** and **ASWF
 | **[RAWtoACES](https://github.com/AcademySoftwareFoundation/rawtoaces)** | RAW to ACES image conversion | [#222](https://github.com/AcademySoftwareFoundation/rawtoaces/pull/222) - Add build developer documentation |
 | **[xSTUDIO](https://github.com/AcademySoftwareFoundation/xstudio)** | Playback and review application | [#186](https://github.com/AcademySoftwareFoundation/xstudio/pull/186) - Fix broken build guide links |
 
-**Total: 12 PRs** across **11 projects** in CNCF and ASWF foundations!
+**Total: 13 PRs** across **12 projects** in CNCF and ASWF foundations!
 
 ## ☁️ Cloud Platforms
 
