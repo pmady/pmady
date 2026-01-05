@@ -36,8 +36,8 @@ Actively contributing to **CNCF (Cloud Native Computing Foundation)** and **ASWF
 | Project | Description | Contributions |
 |---------|-------------|---------------|
 | **[Kubernetes](https://github.com/kubernetes/website)** | Production-Grade Container Orchestration | [#53891](https://github.com/kubernetes/website/pull/53891) - Document deployment.kubernetes.io/* annotations |
-| **[TiKV](https://github.com/tikv/tikv)** | Distributed transactional key-value database | [#18451](https://github.com/tikv/tikv/pull/19225) - Add AGENTS.md for AI agent guidance |
-| **[KEDA](https://github.com/kedacore/keda-docs)** | Kubernetes Event-driven Autoscaling | [#1663](https://github.com/kedacore/keda-docs/pull/1663) - Fix kafka lagthreshold description |
+| **[TiKV](https://github.com/tikv/tikv)** | Distributed transactional key-value database | [#19225](https://github.com/tikv/tikv/pull/19225) - Add AGENTS.md for AI agent guidance |
+| **[KEDA](https://github.com/kedacore/keda-docs)** | Kubernetes Event-driven Autoscaling | [#1658](https://github.com/kedacore/keda-docs/pull/1658) - Removing metricName from the kedadocs |
 | **[Metal³](https://github.com/metal3-io/metal3-docs)** | Bare metal host provisioning for Kubernetes | [#624](https://github.com/metal3-io/metal3-docs/pull/624) - Fix redirect links in tryit.md |
 | **[OpenTelemetry](https://github.com/open-telemetry/opentelemetry.io)** | Observability framework | [#8632](https://github.com/open-telemetry/opentelemetry.io/pull/8632) - Add .NET troubleshooting page |
 
