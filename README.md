@@ -35,10 +35,8 @@ Actively contributing to **CNCF (Cloud Native Computing Foundation)** and **ASWF
 
 | Project | Description | Contributions |
 |---------|-------------|---------------|
-| **[Dragonfly](https://github.com/dragonflyoss/dragonfly)** | P2P-based file distribution and image acceleration | [#4524](https://github.com/dragonflyoss/dragonfly/pull/4524) - Integrate Dragonfly Injector webhook |
-| **[Dragonfly Helm Charts](https://github.com/dragonflyoss/helm-charts)** | Helm charts for Dragonfly deployment | [#455](https://github.com/dragonflyoss/helm-charts/pull/455) - Add Dragonfly Injector helm chart |
 | **[Kubernetes](https://github.com/kubernetes/website)** | Production-Grade Container Orchestration | [#53891](https://github.com/kubernetes/website/pull/53891) - Document deployment.kubernetes.io/* annotations |
-| **[TiKV](https://github.com/tikv/tikv)** | Distributed transactional key-value database | [#18451](https://github.com/tikv/tikv/pull/18451) - Add AGENTS.md for AI agent guidance |
+| **[TiKV](https://github.com/tikv/tikv)** | Distributed transactional key-value database | [#18451](https://github.com/tikv/tikv/pull/19225) - Add AGENTS.md for AI agent guidance |
 | **[KEDA](https://github.com/kedacore/keda-docs)** | Kubernetes Event-driven Autoscaling | [#1663](https://github.com/kedacore/keda-docs/pull/1663) - Fix kafka lagthreshold description |
 | **[Metal³](https://github.com/metal3-io/metal3-docs)** | Bare metal host provisioning for Kubernetes | [#624](https://github.com/metal3-io/metal3-docs/pull/624) - Fix redirect links in tryit.md |
 | **[OpenTelemetry](https://github.com/open-telemetry/opentelemetry.io)** | Observability framework | [#8632](https://github.com/open-telemetry/opentelemetry.io/pull/8632) - Add .NET troubleshooting page |
