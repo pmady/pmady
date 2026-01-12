@@ -10,34 +10,9 @@ Senior DevOps/Platform Engineer with deep expertise in cloud-native technologies
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmady&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&rank_icon=github&hide_border=true)](https://github.com/pmady)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmady&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&rank_icon=github)](https://github.com/pmady)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pmady&theme=github-dark-blue&hide_border=true)](https://github.com/pmady)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pmady&layout=compact&theme=github_dark&hide_border=true&langs_count=8)](https://github.com/pmady)
-
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=pmady&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/pmady)
-
-</div>
-
-### 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pmady&theme=github-compact&hide_border=true)](https://github.com/pmady)
-
-### 🎯 GitHub Metrics
-
-![Metrics](https://metrics.lecoq.io/pmady?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&notable=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&notable.from=organization&notable.repositories=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FChicago)
-
-*Stats updated automatically*
-
+*Stats updated on 2026-01-12 12:19 UTC*
 ## 🏆 Certifications
 
 ![Kubestronaut](https://www.cncf.io/training/kubestronaut/?p=pavan-madduri)
