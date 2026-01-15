@@ -35,7 +35,7 @@ Actively contributing to **CNCF (Cloud Native Computing Foundation)** and **ASWF
 
 | Project | Description | Contributions |
 |---------|-------------|---------------|
-| **[Kubernetes](https://github.com/kubernetes/website)** | Production-Grade Container Orchestration | [#53891](https://github.com/kubernetes/website/pull/53891) - Document deployment.kubernetes.io/* annotations |
+| **[Kubernetes](https://github.com/kubernetes/website)** | Production-Grade Container Orchestration | [#53891](https://github.com/kubernetes/website/pull/53891) - Document deployment.kubernetes.io/* annotations, [#53892](https://github.com/kubernetes/website/pull/53892) - Add kubectl apply view-last-applied documentation |
 | **[TiKV](https://github.com/tikv/tikv)** | Distributed transactional key-value database | [#19225](https://github.com/tikv/tikv/pull/19225) - Add AGENTS.md for AI agent guidance |
 | **[KEDA](https://github.com/kedacore/keda-docs)** | Kubernetes Event-driven Autoscaling | [#1658](https://github.com/kedacore/keda-docs/pull/1658) - Removing metricName from the kedadocs |
 | **[Metal³](https://github.com/metal3-io/metal3-docs)** | Bare metal host provisioning for Kubernetes | [#624](https://github.com/metal3-io/metal3-docs/pull/624) - Fix redirect links in tryit.md |
@@ -52,7 +52,7 @@ Actively contributing to **CNCF (Cloud Native Computing Foundation)** and **ASWF
 | **[RAWtoACES](https://github.com/AcademySoftwareFoundation/rawtoaces)** | RAW to ACES image conversion | [#222](https://github.com/AcademySoftwareFoundation/rawtoaces/pull/222) - Add build developer documentation |
 | **[xSTUDIO](https://github.com/AcademySoftwareFoundation/xstudio)** | Playback and review application | [#186](https://github.com/AcademySoftwareFoundation/xstudio/pull/186) - Fix broken build guide links |
 
-**Total: 15 PRs** across **13 projects** in CNCF and ASWF foundations!
+**Total: 16 PRs** across **13 projects** in CNCF and ASWF foundations!
 
 ### Personal Projects
 
