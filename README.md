@@ -40,18 +40,25 @@ Actively contributing to **CNCF (Cloud Native Computing Foundation)** and **ASWF
 | **[KEDA](https://github.com/kedacore/keda-docs)** | Kubernetes Event-driven Autoscaling | [#1658](https://github.com/kedacore/keda-docs/pull/1658) - Removing metricName from the kedadocs |
 | **[Metal³](https://github.com/metal3-io/metal3-docs)** | Bare metal host provisioning for Kubernetes | [#624](https://github.com/metal3-io/metal3-docs/pull/624) - Fix redirect links in tryit.md |
 | **[OpenTelemetry](https://github.com/open-telemetry/opentelemetry.io)** | Observability framework | [#8632](https://github.com/open-telemetry/opentelemetry.io/pull/8632) - Add .NET troubleshooting page |
+| **[kpt](https://github.com/kptdev/kpt)** | Kubernetes-native packaging and resource management | [#4278](https://github.com/kptdev/kpt/pull/4278) - Fix kpt fn doc command for KRM functions expecting input |
 
 ### ASWF (Academy Software Foundation)
 
 | Project | Description | Contributions |
 |---------|-------------|---------------|
-| **[OpenColorIO](https://github.com/AcademySoftwareFoundation/OpenColorIO)** | Color management library | [#2229](https://github.com/AcademySoftwareFoundation/OpenColorIO/pull/2229) - Add release signing workflow, [#2230](https://github.com/AcademySoftwareFoundation/OpenColorIO/pull/2230) - Add Dependabot configuration |
+| **[OpenColorIO](https://github.com/AcademySoftwareFoundation/OpenColorIO)** | Color management library | [#2229](https://github.com/AcademySoftwareFoundation/OpenColorIO/pull/2229) - Add release signing workflow, [#2230](https://github.com/AcademySoftwareFoundation/OpenColorIO/pull/2230) - Add Dependabot configuration, [#2243](https://github.com/AcademySoftwareFoundation/OpenColorIO/pull/2243) - Add Vulkan unit test framework |
 | **[OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue)** | Cloud rendering management system | [#2134](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2134) - Add scheduled subscription recalculation task |
 | **[OpenImageIO](https://github.com/AcademySoftwareFoundation/OpenImageIO)** | Image processing library | [#4976](https://github.com/AcademySoftwareFoundation/OpenImageIO/pull/4976) - Fix IBA::compare_Yee() channel access |
 | **[RAWtoACES](https://github.com/AcademySoftwareFoundation/rawtoaces)** | RAW to ACES image conversion | [#222](https://github.com/AcademySoftwareFoundation/rawtoaces/pull/222) - Add build developer documentation |
 | **[xSTUDIO](https://github.com/AcademySoftwareFoundation/xstudio)** | Playback and review application | [#186](https://github.com/AcademySoftwareFoundation/xstudio/pull/186) - Fix broken build guide links |
 
-**Total: 13 PRs** across **12 projects** in CNCF and ASWF foundations!
+**Total: 15 PRs** across **13 projects** in CNCF and ASWF foundations!
+
+### Personal Projects
+
+| Project | Description | Contributions |
+|---------|-------------|---------------|
+| **[Golden Kubestronaut Learning](https://github.com/pmady/golden-kubestronaut-learning)** | Kubernetes certification study guides and resources | [#23](https://github.com/pmady/golden-kubestronaut-learning/issues/23) - Dark mode persistence, [#24](https://github.com/pmady/golden-kubestronaut-learning/issues/24) - PDF generation workflow |
 
 ## ☁️ Cloud Platforms
 
