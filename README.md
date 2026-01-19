@@ -60,6 +60,95 @@ Actively contributing to **CNCF (Cloud Native Computing Foundation)** and **ASWF
 |---------|-------------|---------------|
 | **[Golden Kubestronaut Learning](https://github.com/pmady/golden-kubestronaut-learning)** | Kubernetes certification study guides and resources | [#23](https://github.com/pmady/golden-kubestronaut-learning/issues/23) - Dark mode persistence, [#24](https://github.com/pmady/golden-kubestronaut-learning/issues/24) - PDF generation workflow |
 
+## 🚀 Featured Projects - Looking for Contributors!
+
+I'm actively developing these open source projects and **welcome contributors** of all skill levels!
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 [KubeAI Autoscaler](https://github.com/pmady/kubeai-autoscaler)
+
+[![Stars](https://img.shields.io/github/stars/pmady/kubeai-autoscaler?style=social)](https://github.com/pmady/kubeai-autoscaler)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+**Kubernetes-native AI inference workload autoscaler**
+
+Scale AI/ML workloads based on:
+- 🎮 **GPU Utilization** - NVIDIA DCGM metrics
+- ⏱️ **Latency SLA** - P99/P95 response times
+- 📊 **Queue Depth** - Pending request count
+
+**Tech Stack:** Go, Kubernetes, Prometheus, controller-runtime
+
+**Good First Issues:** Controller enhancements, documentation, Helm chart improvements
+
+</td>
+<td width="50%">
+
+### 📚 [Awesome LLMOps](https://github.com/pmady/llmops)
+
+[![Stars](https://img.shields.io/github/stars/pmady/llmops?style=social)](https://github.com/pmady/llmops)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+**The Ultimate Curated List of LLMOps Tools & Resources**
+
+Comprehensive collection covering:
+- 🧠 **LLM Models** - Open source & commercial
+- 🚀 **Inference Engines** - vLLM, TensorRT-LLM, Triton
+- 🔧 **Orchestration** - LangChain, LlamaIndex, agents
+- 📈 **Observability** - Tracing, monitoring, evaluation
+
+**Good First Issues:** Add new tools, fix broken links, improve categorization
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔄 [Ingress2Gateway](https://github.com/pmady/ingress2gateway)
+
+[![Stars](https://img.shields.io/github/stars/pmady/ingress2gateway?style=social)](https://github.com/pmady/ingress2gateway)
+[![Docs](https://readthedocs.org/projects/ingress2gateway/badge/?version=latest)](https://ingress2gateway.readthedocs.io)
+
+**Convert Kubernetes Ingress to Gateway API**
+
+Features:
+- 🌐 **Web UI** - Interactive conversion with diff view
+- 💻 **CLI Tool** - Full-featured command line
+- 🔌 **GitHub Action** - CI/CD integration
+- ☸️ **kubectl Plugin** - Native kubectl support
+
+**Supports:** Nginx, Traefik, Istio, AWS ALB, GKE, Kong, Contour
+
+**Tech Stack:** Python, FastAPI, React, Kubernetes
+
+**Good First Issues:** Add annotation support, improve validation, new provider presets
+
+</td>
+<td width="50%">
+
+### 🤝 How to Contribute
+
+1. **Pick a project** that interests you
+2. **Check Issues** labeled `good first issue` or `help wanted`
+3. **Fork & Clone** the repository
+4. **Submit a PR** - I review all PRs promptly!
+
+**All contributions welcome:**
+- 💻 Code contributions
+- 📖 Documentation improvements
+- 🐛 Bug reports
+- 💡 Feature suggestions
+- ⭐ Star the repos!
+
+**Questions?** Open a Discussion or reach out on LinkedIn!
+
+</td>
+</tr>
+</table>
+
 ## ☁️ Cloud Platforms
 
 - **AWS** - Primary cloud platform for production workloads
