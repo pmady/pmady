@@ -35,6 +35,7 @@ Actively contributing to **CNCF (Cloud Native Computing Foundation)** and **ASWF
 
 | Project | Description | Contributions |
 |---------|-------------|---------------|
+| **[Dragonfly](https://github.com/dragonflyoss)** | P2P-based file distribution and image acceleration | [client#1665](https://github.com/dragonflyoss/client/pull/1665) - Add Hugging Face backend support with hf:// protocol, [d7y.io#386](https://github.com/dragonflyoss/d7y.io/pull/386) - Add hf:// protocol documentation, [helm-charts#455](https://github.com/dragonflyoss/helm-charts/pull/455) - Add injector support to helm chart |
 | **[Kubernetes](https://github.com/kubernetes/website)** | Production-Grade Container Orchestration | [#53891](https://github.com/kubernetes/website/pull/53891) - Document deployment.kubernetes.io/* annotations, [#53892](https://github.com/kubernetes/website/pull/53892) - Add kubectl apply view-last-applied documentation |
 | **[TiKV](https://github.com/tikv/tikv)** | Distributed transactional key-value database | [#19225](https://github.com/tikv/tikv/pull/19225) - Add AGENTS.md for AI agent guidance |
 | **[KEDA](https://github.com/kedacore/keda-docs)** | Kubernetes Event-driven Autoscaling | [#1658](https://github.com/kedacore/keda-docs/pull/1658) - Removing metricName from the kedadocs |
@@ -52,7 +53,7 @@ Actively contributing to **CNCF (Cloud Native Computing Foundation)** and **ASWF
 | **[RAWtoACES](https://github.com/AcademySoftwareFoundation/rawtoaces)** | RAW to ACES image conversion | [#222](https://github.com/AcademySoftwareFoundation/rawtoaces/pull/222) - Add build developer documentation |
 | **[xSTUDIO](https://github.com/AcademySoftwareFoundation/xstudio)** | Playback and review application | [#186](https://github.com/AcademySoftwareFoundation/xstudio/pull/186) - Fix broken build guide links |
 
-**Total: 16 PRs** across **13 projects** in CNCF and ASWF foundations!
+**Total: 19 PRs** across **14 projects** in CNCF and ASWF foundations!
 
 ### Personal Projects
 
