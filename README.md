@@ -113,20 +113,23 @@ Peer-reviewed research on Cloud-Native, Kubernetes, AI/ML Operations, and Platfo
 @article{madduri2026ai_security,
   author  = {Madduri, Pavan},
   title   = {AI Security: Preemptive Cybersecurity — Using AI Agents for Proactive Threat Hunting in Cloud-Native Environments},
+  journal = {ACTA SCIENTIAE},
   year    = {2026},
   note    = {Available at: https://scholar.google.com/citations?user=au0O-8oAAAAJ}
 }
 
-@article{madduri2026agentic_mcp,
+@article{madduri2025agentic_mcp,
   author  = {Madduri, Pavan},
   title   = {Agentic AI Introduction: Model Context Protocol (MCP) — Bridging Large Language Models and Real-Time Kubernetes Observability},
-  year    = {2026},
+  journal = {Power System Protection and Control},
+  year    = {2025},
   note    = {Available at: https://scholar.google.com/citations?user=au0O-8oAAAAJ}
 }
 
 @article{madduri2026llm_ops,
   author  = {Madduri, Pavan},
   title   = {Scale and LLM-Ops: Architecting LLM-as-a-Service — Infrastructure Requirements for High-Concurrency Agentic Workloads},
+  journal = {Power System Protection and Control},
   year    = {2026},
   note    = {Available at: https://scholar.google.com/citations?user=au0O-8oAAAAJ}
 }
@@ -134,42 +137,48 @@ Peer-reviewed research on Cloud-Native, Kubernetes, AI/ML Operations, and Platfo
 @article{madduri2026agentic_sre,
   author  = {Madduri, Pavan},
   title   = {Agentic SRE Teams: Human-Agent Collaboration — A New Operational Model for Autonomous Incident Response},
+  journal = {Power System Protection and Control},
   year    = {2026},
   note    = {Available at: https://scholar.google.com/citations?user=au0O-8oAAAAJ}
 }
 
-@article{madduri2026platform_engineering,
+@article{madduri2025platform_engineering,
   author  = {Madduri, Pavan},
   title   = {Platform Engineering Foundations: The Internal Developer Platform (IDP) — A Qualitative Study on Reducing Cognitive Load for Java Developers},
-  year    = {2026},
+  journal = {ACTA SCIENTIAE},
+  year    = {2025},
   note    = {Available at: https://scholar.google.com/citations?user=au0O-8oAAAAJ}
 }
 
-@article{madduri2026gitops_verification,
+@article{madduri2024gitops_verification,
   author  = {Madduri, Pavan},
   title   = {GitOps and Stability: Formal Verification of ArgoCD Manifests — Preventing Deployment Drift in Mission-Critical Platforms},
-  year    = {2026},
+  journal = {Power System Protection and Control},
+  year    = {2024},
   note    = {Available at: https://scholar.google.com/citations?user=au0O-8oAAAAJ}
 }
 
-@article{madduri2026finops_autoscaling,
+@article{madduri2024finops_autoscaling,
   author  = {Madduri, Pavan},
   title   = {FinOps and Resource Efficiency: Predictive Autoscaling Using Time-Series Analysis to Reduce Cloud Waste in EKS Clusters},
-  year    = {2026},
+  journal = {ACTA SCIENTIAE},
+  year    = {2024},
   note    = {Available at: https://scholar.google.com/citations?user=au0O-8oAAAAJ}
 }
 
-@article{madduri2026zero_trust,
+@article{madduri2023zero_trust,
   author  = {Madduri, Pavan},
   title   = {Zero-Trust Infrastructure: Automated Identity Governance in Kubernetes — A Framework for Zero-Trust Microservices},
-  year    = {2026},
+  journal = {Power System Protection and Control},
+  year    = {2023},
   note    = {Available at: https://scholar.google.com/citations?user=au0O-8oAAAAJ}
 }
 
-@article{madduri2026service_mesh,
+@article{madduri2023service_mesh,
   author  = {Madduri, Pavan},
   title   = {Multi-Cluster Orchestration: Performance Benchmarking of Cross-Cluster Service Meshes in High-Traffic Retail Environments},
-  year    = {2026},
+  journal = {ACTA SCIENTIAE},
+  year    = {2023},
   note    = {Available at: https://scholar.google.com/citations?user=au0O-8oAAAAJ}
 }
 ```
