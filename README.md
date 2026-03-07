@@ -66,7 +66,117 @@ Actively contributing to **CNCF (Cloud Native Computing Foundation)** and **ASWF
 |---------|-------------|---------------|
 | **[Golden Kubestronaut Learning](https://github.com/pmady/golden-kubestronaut-learning)** | Kubernetes certification study guides and resources | [#23](https://github.com/pmady/golden-kubestronaut-learning/issues/23) - Dark mode persistence, [#24](https://github.com/pmady/golden-kubestronaut-learning/issues/24) - PDF generation workflow |
 
-## 🚀 Featured Projects - Looking for Contributors!
+## � Research Publications
+
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?view_op=list_works&hl=en&user=au0O-8oAAAAJ)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Pavan-Madduri-2)
+
+Peer-reviewed research on Cloud-Native, Kubernetes, AI/ML Operations, and Platform Engineering:
+
+### AI & Agentic Systems
+
+| # | Paper | Links |
+|---|-------|-------|
+| 1 | **AI Security: Preemptive Cybersecurity — Using AI Agents for Proactive Threat Hunting in Cloud-Native Environments** | [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=au0O-8oAAAAJ&citation_for_view=au0O-8oAAAAJ:2osOgNQ5qMEC) · [ResearchGate](https://www.researchgate.net/profile/Pavan-Madduri-2) |
+| 2 | **Agentic AI Introduction: Model Context Protocol (MCP) — Bridging Large Language Models and Real-Time Kubernetes Observability** | [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=au0O-8oAAAAJ&citation_for_view=au0O-8oAAAAJ:LkGwnXOMwfcC) · [ResearchGate](https://www.researchgate.net/profile/Pavan-Madduri-2) |
+| 3 | **Scale & LLM-Ops: Architecting LLM-as-a-Service — Infrastructure Requirements for High-Concurrency Agentic Workloads** | [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=au0O-8oAAAAJ&citation_for_view=au0O-8oAAAAJ:qjMakFHDy7sC) · [ResearchGate](https://www.researchgate.net/profile/Pavan-Madduri-2) |
+
+### SRE & Self-Healing Infrastructure
+
+| # | Paper | Links |
+|---|-------|-------|
+| 4 | **Agentic SRE Teams: Human-Agent Collaboration — A New Operational Model for Autonomous Incident Response** | [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=au0O-8oAAAAJ&citation_for_view=au0O-8oAAAAJ:UeHWp8X0CEIC) · [ResearchGate](https://www.researchgate.net/profile/Pavan-Madduri-2) |
+| 5 | **Autonomous Remediation and Agentic SRE Teams: Reinforcement Learning for Self-Healing Infrastructure and Human-Agent Collaboration in Incident Response** | [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=au0O-8oAAAAJ&citation_for_view=au0O-8oAAAAJ:zYLM7Y9cAGgC) · [ResearchGate](https://www.researchgate.net/profile/Pavan-Madduri-2) |
+| 6 | **From PagerDuty to 'Agentic Ops': The Rise of Self-Healing Kubernetes** | [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=au0O-8oAAAAJ&citation_for_view=au0O-8oAAAAJ:WF5omc3nYNoC) · [ResearchGate](https://www.researchgate.net/profile/Pavan-Madduri-2) |
+
+### Platform Engineering & GitOps
+
+| # | Paper | Links |
+|---|-------|-------|
+| 7 | **Platform Engineering Foundations: The Internal Developer Platform (IDP) — A Qualitative Study on Reducing Cognitive Load for Java Developers** | [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=au0O-8oAAAAJ&citation_for_view=au0O-8oAAAAJ:Tyk-4Ss8FVUC) · [ResearchGate](https://www.researchgate.net/profile/Pavan-Madduri-2) |
+| 8 | **GitOps & Stability: Formal Verification of ArgoCD Manifests — Preventing Deployment Drift in Mission-Critical Platforms** | [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=au0O-8oAAAAJ&citation_for_view=au0O-8oAAAAJ:roLk4NBRz8UC) · [ResearchGate](https://www.researchgate.net/profile/Pavan-Madduri-2) |
+| 9 | **Beyond Basic Sync: Why ArgoCD v3 is the Backbone of Modern Platform Engineering** | [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=au0O-8oAAAAJ&citation_for_view=au0O-8oAAAAJ:ufrVoPGSRksC) · [ResearchGate](https://www.researchgate.net/profile/Pavan-Madduri-2) |
+
+### Kubernetes & Cloud Infrastructure
+
+| # | Paper | Links |
+|---|-------|-------|
+| 10 | **The Efficiency Era: How Kubernetes v1.35 Finally Solves the "Restart" Headache** | [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=au0O-8oAAAAJ&citation_for_view=au0O-8oAAAAJ:8k81kl-MbHgC) · [ResearchGate](https://www.researchgate.net/profile/Pavan-Madduri-2) |
+| 11 | **FinOps & Resource Efficiency: Predictive Autoscaling Using Time-Series Analysis to Reduce Cloud Waste in EKS Clusters** | [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=au0O-8oAAAAJ&citation_for_view=au0O-8oAAAAJ:W7OEmFMy1HYC) · [ResearchGate](https://www.researchgate.net/profile/Pavan-Madduri-2) |
+| 12 | **Zero-Trust Infrastructure: Automated Identity Governance in Kubernetes — A Framework for Zero-Trust Microservices** | [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=au0O-8oAAAAJ&citation_for_view=au0O-8oAAAAJ:_FxGoFyzp5QC) · [ResearchGate](https://www.researchgate.net/profile/Pavan-Madduri-2) |
+| 13 | **Multi-Cluster Orchestration: Performance Benchmarking of Cross-Cluster Service Meshes in High-Traffic Retail Environments** | [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=au0O-8oAAAAJ&citation_for_view=au0O-8oAAAAJ:eQOLeE2rZwMC) · [ResearchGate](https://www.researchgate.net/profile/Pavan-Madduri-2) |
+
+<details>
+<summary><b>📋 How to Cite My Work (BibTeX)</b></summary>
+
+```bibtex
+@article{madduri2026ai_security,
+  author  = {Madduri, Pavan},
+  title   = {AI Security: Preemptive Cybersecurity — Using AI Agents for Proactive Threat Hunting in Cloud-Native Environments},
+  year    = {2026},
+  note    = {Available at: https://scholar.google.com/citations?user=au0O-8oAAAAJ}
+}
+
+@article{madduri2026agentic_mcp,
+  author  = {Madduri, Pavan},
+  title   = {Agentic AI Introduction: Model Context Protocol (MCP) — Bridging Large Language Models and Real-Time Kubernetes Observability},
+  year    = {2026},
+  note    = {Available at: https://scholar.google.com/citations?user=au0O-8oAAAAJ}
+}
+
+@article{madduri2026llm_ops,
+  author  = {Madduri, Pavan},
+  title   = {Scale and LLM-Ops: Architecting LLM-as-a-Service — Infrastructure Requirements for High-Concurrency Agentic Workloads},
+  year    = {2026},
+  note    = {Available at: https://scholar.google.com/citations?user=au0O-8oAAAAJ}
+}
+
+@article{madduri2026agentic_sre,
+  author  = {Madduri, Pavan},
+  title   = {Agentic SRE Teams: Human-Agent Collaboration — A New Operational Model for Autonomous Incident Response},
+  year    = {2026},
+  note    = {Available at: https://scholar.google.com/citations?user=au0O-8oAAAAJ}
+}
+
+@article{madduri2026platform_engineering,
+  author  = {Madduri, Pavan},
+  title   = {Platform Engineering Foundations: The Internal Developer Platform (IDP) — A Qualitative Study on Reducing Cognitive Load for Java Developers},
+  year    = {2026},
+  note    = {Available at: https://scholar.google.com/citations?user=au0O-8oAAAAJ}
+}
+
+@article{madduri2026gitops_verification,
+  author  = {Madduri, Pavan},
+  title   = {GitOps and Stability: Formal Verification of ArgoCD Manifests — Preventing Deployment Drift in Mission-Critical Platforms},
+  year    = {2026},
+  note    = {Available at: https://scholar.google.com/citations?user=au0O-8oAAAAJ}
+}
+
+@article{madduri2026finops_autoscaling,
+  author  = {Madduri, Pavan},
+  title   = {FinOps and Resource Efficiency: Predictive Autoscaling Using Time-Series Analysis to Reduce Cloud Waste in EKS Clusters},
+  year    = {2026},
+  note    = {Available at: https://scholar.google.com/citations?user=au0O-8oAAAAJ}
+}
+
+@article{madduri2026zero_trust,
+  author  = {Madduri, Pavan},
+  title   = {Zero-Trust Infrastructure: Automated Identity Governance in Kubernetes — A Framework for Zero-Trust Microservices},
+  year    = {2026},
+  note    = {Available at: https://scholar.google.com/citations?user=au0O-8oAAAAJ}
+}
+
+@article{madduri2026service_mesh,
+  author  = {Madduri, Pavan},
+  title   = {Multi-Cluster Orchestration: Performance Benchmarking of Cross-Cluster Service Meshes in High-Traffic Retail Environments},
+  year    = {2026},
+  note    = {Available at: https://scholar.google.com/citations?user=au0O-8oAAAAJ}
+}
+```
+
+</details>
+
+## �🚀 Featured Projects - Looking for Contributors!
 
 I'm actively developing these open source projects and **welcome contributors** of all skill levels!
 
