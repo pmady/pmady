@@ -43,7 +43,8 @@ Actively contributing to **CNCF (Cloud Native Computing Foundation)** and **ASWF
 | **[Dragonfly](https://github.com/dragonflyoss)** | P2P-based file distribution and image acceleration | [client#1665](https://github.com/dragonflyoss/client/pull/1665) - Add Hugging Face backend support with hf:// protocol, [d7y.io#386](https://github.com/dragonflyoss/d7y.io/pull/386) - Add hf:// protocol documentation, [helm-charts#455](https://github.com/dragonflyoss/helm-charts/pull/455) - Add injector support to helm chart |
 | **[Kubernetes](https://github.com/kubernetes/website)** | Production-Grade Container Orchestration | [#53891](https://github.com/kubernetes/website/pull/53891) - Document deployment.kubernetes.io/* annotations, [#53892](https://github.com/kubernetes/website/pull/53892) - Add kubectl apply view-last-applied documentation |
 | **[TiKV](https://github.com/tikv/tikv)** | Distributed transactional key-value database | [#19225](https://github.com/tikv/tikv/pull/19225) - Add AGENTS.md for AI agent guidance |
-| **[KEDA](https://github.com/kedacore/keda-docs)** | Kubernetes Event-driven Autoscaling | [#1658](https://github.com/kedacore/keda-docs/pull/1658) - Removing metricName from the kedadocs |
+| **[Volcano](https://github.com/volcano-sh/volcano)** | Cloud-native batch scheduling for AI/HPC | [#5095](https://github.com/volcano-sh/volcano/pull/5095) - GPU NUMA topology awareness in scheduler, [apis#229](https://github.com/volcano-sh/apis/pull/229) - Add GPUInfo type to NumatopoSpec CRD, [resource-exporter#12](https://github.com/volcano-sh/resource-exporter/pull/12) - GPU NUMA topology discovery via sysfs |
+| **[KEDA](https://github.com/kedacore/keda)** | Kubernetes Event-driven Autoscaling | [keda-docs#1658](https://github.com/kedacore/keda-docs/pull/1658) - Removing metricName from the kedadocs, [#7538](https://github.com/kedacore/keda/issues/7538) - GPU/AI inference scaler architectural analysis |
 | **[Metal³](https://github.com/metal3-io/metal3-docs)** | Bare metal host provisioning for Kubernetes | [#624](https://github.com/metal3-io/metal3-docs/pull/624) - Fix redirect links in tryit.md |
 | **[OpenTelemetry](https://github.com/open-telemetry/opentelemetry.io)** | Observability framework | [#8632](https://github.com/open-telemetry/opentelemetry.io/pull/8632) - Add .NET troubleshooting page |
 | **[kpt](https://github.com/kptdev/kpt)** | Kubernetes-native packaging and resource management | [#4278](https://github.com/kptdev/kpt/pull/4278) - Fix kpt fn doc command for KRM functions expecting input |
@@ -58,12 +59,13 @@ Actively contributing to **CNCF (Cloud Native Computing Foundation)** and **ASWF
 | **[RAWtoACES](https://github.com/AcademySoftwareFoundation/rawtoaces)** | RAW to ACES image conversion | [#222](https://github.com/AcademySoftwareFoundation/rawtoaces/pull/222) - Add build developer documentation |
 | **[xSTUDIO](https://github.com/AcademySoftwareFoundation/xstudio)** | Playback and review application | [#186](https://github.com/AcademySoftwareFoundation/xstudio/pull/186) - Fix broken build guide links |
 
-**Total: 19 PRs** across **14 projects** in CNCF and ASWF foundations!
+**Total: 23 PRs** across **15 projects** in CNCF and ASWF foundations!
 
 ### Personal Projects
 
 | Project | Description | Contributions |
 |---------|-------------|---------------|
+| **[keda-gpu-scaler](https://github.com/pmady/keda-gpu-scaler)** | KEDA External gRPC Scaler for GPU/AI workloads | [![CI](https://github.com/pmady/keda-gpu-scaler/actions/workflows/ci.yaml/badge.svg)](https://github.com/pmady/keda-gpu-scaler) Native NVML metrics, DaemonSet deployment, pre-built scaling profiles (vLLM, Triton, training), Helm chart, scale-to-zero |
 | **[Golden Kubestronaut Learning](https://github.com/pmady/golden-kubestronaut-learning)** | Kubernetes certification study guides and resources | [#23](https://github.com/pmady/golden-kubestronaut-learning/issues/23) - Dark mode persistence, [#24](https://github.com/pmady/golden-kubestronaut-learning/issues/24) - PDF generation workflow |
 
 ## � Research Publications
