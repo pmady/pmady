@@ -40,7 +40,7 @@ Actively contributing to **CNCF (Cloud Native Computing Foundation)** and **ASWF
 
 | Project | Description | Contributions |
 |---------|-------------|---------------|
-| **[Dragonfly](https://github.com/dragonflyoss)** | P2P-based file distribution and image acceleration | [client#1665](https://github.com/dragonflyoss/client/pull/1665) - Add Hugging Face backend support with hf:// protocol, [d7y.io#386](https://github.com/dragonflyoss/d7y.io/pull/386) - Add hf:// protocol documentation, [helm-charts#455](https://github.com/dragonflyoss/helm-charts/pull/455) - Add injector support to helm chart |
+| **[Dragonfly](https://github.com/dragonflyoss)** | P2P-based file distribution and image acceleration | [client#1665](https://github.com/dragonflyoss/client/pull/1665) - Add Hugging Face backend support with hf:// protocol, [client#1673](https://github.com/dragonflyoss/client/pull/1673) - Add ModelScope backend support with modelscope:// protocol, [d7y.io#386](https://github.com/dragonflyoss/d7y.io/pull/386) - Add hf:// protocol documentation, [d7y.io#398](https://github.com/dragonflyoss/d7y.io/pull/398) - Add P2P-accelerated AI model downloads blog post, [helm-charts#455](https://github.com/dragonflyoss/helm-charts/pull/455) - Add injector support to helm chart, [helm-charts#480](https://github.com/dragonflyoss/helm-charts/pull/480) - Replace deprecated bitnamilegacy/mysql with bitnami/mysql |
 | **[Kubernetes](https://github.com/kubernetes/website)** | Production-Grade Container Orchestration | [#53891](https://github.com/kubernetes/website/pull/53891) - Document deployment.kubernetes.io/* annotations, [#53892](https://github.com/kubernetes/website/pull/53892) - Add kubectl apply view-last-applied documentation |
 | **[TiKV](https://github.com/tikv/tikv)** | Distributed transactional key-value database | [#19225](https://github.com/tikv/tikv/pull/19225) - Add AGENTS.md for AI agent guidance |
 | **[Volcano](https://github.com/volcano-sh/volcano)** | Cloud-native batch scheduling for AI/HPC | [#5095](https://github.com/volcano-sh/volcano/pull/5095) - GPU NUMA topology awareness in scheduler, [apis#229](https://github.com/volcano-sh/apis/pull/229) - Add GPUInfo type to NumatopoSpec CRD, [resource-exporter#12](https://github.com/volcano-sh/resource-exporter/pull/12) - GPU NUMA topology discovery via sysfs |
@@ -59,7 +59,7 @@ Actively contributing to **CNCF (Cloud Native Computing Foundation)** and **ASWF
 | **[RAWtoACES](https://github.com/AcademySoftwareFoundation/rawtoaces)** | RAW to ACES image conversion | [#222](https://github.com/AcademySoftwareFoundation/rawtoaces/pull/222) - Add build developer documentation |
 | **[xSTUDIO](https://github.com/AcademySoftwareFoundation/xstudio)** | Playback and review application | [#186](https://github.com/AcademySoftwareFoundation/xstudio/pull/186) - Fix broken build guide links |
 
-**Total: 23 PRs** across **15 projects** in CNCF and ASWF foundations!
+**Total: 26 PRs** across **15 projects** in CNCF and ASWF foundations!
 
 ### Personal Projects
 
