@@ -11,7 +11,7 @@
 
 ## About Me
 
-Senior DevOps/Platform Engineer with deep expertise in cloud-native technologies, Kubernetes ecosystems, and infrastructure automation. Passionate about building scalable, resilient systems and contributing to open source communities.
+Senior Cloud Platform Engineer at **W.W. Grainger, Inc.** and **CNCF Golden Kubestronaut**. Deep expertise in cloud-native GPU/AI infrastructure, Kubernetes ecosystems, and platform engineering. Building open-source tools for GPU workload autoscaling, observability, and topology-aware incident response.
 
 ## 📊 GitHub Stats
 
@@ -66,6 +66,8 @@ Actively contributing to **CNCF (Cloud Native Computing Foundation)** and **ASWF
 | Project | Description | Contributions |
 |---------|-------------|---------------|
 | **[keda-gpu-scaler](https://github.com/pmady/keda-gpu-scaler)** | KEDA External gRPC Scaler for GPU/AI workloads | [![CI](https://github.com/pmady/keda-gpu-scaler/actions/workflows/ci.yaml/badge.svg)](https://github.com/pmady/keda-gpu-scaler) Native NVML metrics, DaemonSet deployment, pre-built scaling profiles (vLLM, Triton, training), Helm chart, scale-to-zero |
+| **[otel-gpu-receiver](https://github.com/pmady/otel-gpu-receiver)** | OpenTelemetry Collector receiver for GPU metrics | NVIDIA GPU metrics via NVML, OpenTelemetry-native, Prometheus exporter, multi-GPU support |
+| **[kube-topology-agent](https://github.com/pmady/kube-topology-agent)** | K8s topology discovery & automated root-cause analysis | Knowledge graph of cluster resources, AlertManager webhook integration, GPU workload classification, blast-radius analysis |
 | **[Golden Kubestronaut Learning](https://github.com/pmady/golden-kubestronaut-learning)** | Kubernetes certification study guides and resources | [#23](https://github.com/pmady/golden-kubestronaut-learning/issues/23) - Dark mode persistence, [#24](https://github.com/pmady/golden-kubestronaut-learning/issues/24) - PDF generation workflow |
 
 ## � Research Publications
@@ -187,7 +189,7 @@ Peer-reviewed research on Cloud-Native, Kubernetes, AI/ML Operations, and Platfo
 
 </details>
 
-## �🚀 Featured Projects - Looking for Contributors!
+## 🚀 Featured Projects - Looking for Contributors!
 
 I'm actively developing these open source projects and **welcome contributors** of all skill levels!
 
@@ -195,63 +197,57 @@ I'm actively developing these open source projects and **welcome contributors** 
 <tr>
 <td width="50%">
 
-### 🤖 [KubeAI Autoscaler](https://github.com/pmady/kubeai-autoscaler)
+### 🎮 [KEDA GPU Scaler](https://github.com/pmady/keda-gpu-scaler)
 
-[![Stars](https://img.shields.io/github/stars/pmady/kubeai-autoscaler?style=social)](https://github.com/pmady/kubeai-autoscaler)
+[![Stars](https://img.shields.io/github/stars/pmady/keda-gpu-scaler?style=social)](https://github.com/pmady/keda-gpu-scaler)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-**Kubernetes-native AI inference workload autoscaler**
+**KEDA External gRPC Scaler for GPU/AI workloads**
 
-Scale AI/ML workloads based on:
-- 🎮 **GPU Utilization** - NVIDIA DCGM metrics
-- ⏱️ **Latency SLA** - P99/P95 response times
-- 📊 **Queue Depth** - Pending request count
+- 🎮 **Native NVML** - Direct GPU metrics via go-nvml
+- 🚀 **Scaling Profiles** - vLLM, Triton, training presets
+- � **DaemonSet** - Per-node GPU metric collection
+- 🔄 **Scale-to-Zero** - GPU-aware idle detection
 
-**Tech Stack:** Go, Kubernetes, Prometheus, controller-runtime
+**Tech Stack:** Go, gRPC, NVIDIA NVML, Kubernetes, Helm
 
-**Good First Issues:** Controller enhancements, documentation, Helm chart improvements
+**Referenced in** [KEDA #7538](https://github.com/kedacore/keda/issues/7538)
 
 </td>
 <td width="50%">
 
-### 📚 [Awesome LLMOps](https://github.com/pmady/llmops)
+### � [OpenTelemetry GPU Receiver](https://github.com/pmady/otel-gpu-receiver)
 
-[![Stars](https://img.shields.io/github/stars/pmady/llmops?style=social)](https://github.com/pmady/llmops)
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Stars](https://img.shields.io/github/stars/pmady/otel-gpu-receiver?style=social)](https://github.com/pmady/otel-gpu-receiver)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-**The Ultimate Curated List of LLMOps Tools & Resources**
+**OpenTelemetry Collector receiver for GPU metrics**
 
-Comprehensive collection covering:
-- 🧠 **LLM Models** - Open source & commercial
-- 🚀 **Inference Engines** - vLLM, TensorRT-LLM, Triton
-- 🔧 **Orchestration** - LangChain, LlamaIndex, agents
-- 📈 **Observability** - Tracing, monitoring, evaluation
+- 🔋 **NVIDIA NVML** - GPU utilization, memory, temperature
+- � **OTel Native** - Standard OTLP export pipeline
+- � **Multi-GPU** - All devices on the node
+- 📈 **Prometheus** - Built-in Prometheus exporter
 
-**Good First Issues:** Add new tools, fix broken links, improve categorization
+**Tech Stack:** Go, OpenTelemetry Collector SDK, NVML
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🔄 [Ingress2Gateway](https://github.com/pmady/ingress2gateway)
+### 🧠 [Kube Topology Agent](https://github.com/pmady/kube-topology-agent)
 
-[![Stars](https://img.shields.io/github/stars/pmady/ingress2gateway?style=social)](https://github.com/pmady/ingress2gateway)
-[![Docs](https://readthedocs.org/projects/ingress2gateway/badge/?version=latest)](https://ingress2gateway.readthedocs.io)
+[![Stars](https://img.shields.io/github/stars/pmady/kube-topology-agent?style=social)](https://github.com/pmady/kube-topology-agent)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-**Convert Kubernetes Ingress to Gateway API**
+**K8s knowledge graph & automated root-cause analysis**
 
-Features:
-- 🌐 **Web UI** - Interactive conversion with diff view
-- 💻 **CLI Tool** - Full-featured command line
-- 🔌 **GitHub Action** - CI/CD integration
-- ☸️ **kubectl Plugin** - Native kubectl support
+- 🗺️ **Knowledge Graph** - Real-time resource topology
+- � **Root-Cause Traversal** - Graph-based incident investigation
+- 🎮 **GPU Aware** - Training/inference/batch classification
+- 🔔 **AlertManager** - Webhook integration for auto-investigation
 
-**Supports:** Nginx, Traefik, Istio, AWS ALB, GKE, Kong, Contour
-
-**Tech Stack:** Python, FastAPI, React, Kubernetes
-
-**Good First Issues:** Add annotation support, improve validation, new provider presets
+**Tech Stack:** Go, Kubernetes API, Gorilla Mux, Helm
 
 </td>
 <td width="50%">
@@ -270,7 +266,7 @@ Features:
 - 💡 Feature suggestions
 - ⭐ Star the repos!
 
-**Questions?** Open a Discussion or reach out on LinkedIn!
+**More projects:** [KubeAI Autoscaler](https://github.com/pmady/kubeai-autoscaler) · [Ingress2Gateway](https://github.com/pmady/ingress2gateway) · [LLMOps](https://github.com/pmady/llmops)
 
 </td>
 </tr>
