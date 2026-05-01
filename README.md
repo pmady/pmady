@@ -195,7 +195,13 @@ I'm actively developing these open source projects and **welcome contributors** 
 
 Deeply interested in the convergence of **AI/ML and Kubernetes** - enabling organizations to run machine learning workloads at scale on cloud-native infrastructure. Exploring MLOps practices, GPU scheduling, and AI platform engineering.
 
-## 📝 Blog
+## � Publications
+
+| Title | Publication | Date |
+|-------|------------|------|
+| **[Abstracting AI Infrastructure: Native GPU Scaling for Internal Developer Platforms](https://platformengineering.com/contributed-content/abstracting-ai-infrastructure-native-gpu-scaling-for-internal-developer-platforms/)** | Platform Engineering | May 2026 |
+
+## �📝 Blog
 
 Sharing insights on DevOps best practices, Kubernetes deep-dives, and cloud-native architecture:
 
