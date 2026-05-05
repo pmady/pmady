@@ -9,14 +9,14 @@
 
 ## About Me
 
-Senior Cloud Platform Engineer at **W.W. Grainger, Inc.** and **CNCF Golden Kubestronaut**. Deep expertise in cloud-native GPU/AI infrastructure, Kubernetes ecosystems, and platform engineering. Building open-source tools for GPU workload autoscaling, observability, and topology-aware incident response.
+Senior Cloud Platform Engineer at **W.W. Grainger, Inc.**, **CNCF Golden Kubestronaut**, and **Oracle ACE Associate**. Deep expertise in cloud-native GPU/AI infrastructure, Kubernetes ecosystems, and platform engineering. Building open-source tools for GPU workload autoscaling, observability, and topology-aware incident response.
 
 ## 📊 GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmady&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&rank_icon=github)](https://github.com/pmady)
 
 *Stats updated on 2026-05-05 13:01 UTC*
-## 🏆 Certifications
+## 🏆 Certifications & Recognition
 
 ![Kubestronaut](https://www.cncf.io/training/kubestronaut/?p=pavan-madduri)
 
@@ -27,6 +27,10 @@ Senior Cloud Platform Engineer at **W.W. Grainger, Inc.** and **CNCF Golden Kube
 - CKAD (Certified Kubernetes Application Developer)
 - CKS (Certified Kubernetes Security Specialist)
 - KCSA (Kubernetes and Cloud Native Security Associate)
+
+[![Oracle ACE Associate](https://img.shields.io/badge/Oracle_ACE-Associate-C74634?style=for-the-badge&logo=oracle&logoColor=white)](https://ace.oracle.com/ords/ace/profile/pavan27)
+
+**Oracle ACE Associate** - Recognized by Oracle for community advocacy, technical content creation, and knowledge sharing around Oracle products and cloud technologies.
 
 ## 🌱 Open Source Contributions
 
