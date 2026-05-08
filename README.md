@@ -4,12 +4,13 @@
 [![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://pavanmadduri.wordpress.com/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pavan4devops)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/pavan_madduri)
+[![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/pmady7389)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Pavan-Madduri-2?ev=hdr_xprf)
 ![Profile Views](https://komarev.com/ghpvc/?username=pmady&color=blue&style=for-the-badge)
 
 ## About Me
 
-Senior Cloud Platform Engineer at **W.W. Grainger, Inc.**, **CNCF Golden Kubestronaut**, and **Oracle ACE Associate**. Deep expertise in cloud-native GPU/AI infrastructure, Kubernetes ecosystems, and platform engineering. Building open-source tools for GPU workload autoscaling, observability, and topology-aware incident response.
+Senior Cloud Platform Engineer at **W.W. Grainger, Inc.**, **CNCF Golden Kubestronaut**, **Oracle ACE Associate**, and **Dragonfly Community Member**. Deep expertise in cloud-native GPU/AI infrastructure, Kubernetes ecosystems, and platform engineering. Building open-source tools for GPU workload autoscaling, observability, topology-aware incident response, and Docker Extensions for AI/ML developers.
 
 ## 📊 GitHub Stats
 
@@ -68,6 +69,7 @@ Actively contributing to **CNCF (Cloud Native Computing Foundation)** and **ASWF
 | Project | Description | Contributions |
 |---------|-------------|---------------|
 | **[keda-gpu-scaler](https://github.com/pmady/keda-gpu-scaler)** | KEDA External gRPC Scaler for GPU/AI workloads | [![CI](https://github.com/pmady/keda-gpu-scaler/actions/workflows/ci.yaml/badge.svg)](https://github.com/pmady/keda-gpu-scaler) Native NVML metrics, DaemonSet deployment, pre-built scaling profiles (vLLM, Triton, training), Helm chart, scale-to-zero |
+| **[docker-gpu-dashboard-extension](https://github.com/pmady/docker-gpu-dashboard-extension)** | Docker Desktop Extension for real-time GPU monitoring | Real-time NVIDIA GPU metrics in Docker Desktop — utilization, memory, temperature, power draw, historical charts |
 | **[otel-gpu-receiver](https://github.com/pmady/otel-gpu-receiver)** | OpenTelemetry Collector receiver for GPU metrics | NVIDIA GPU metrics via NVML, OpenTelemetry-native, Prometheus exporter, multi-GPU support |
 | **[kube-topology-agent](https://github.com/pmady/kube-topology-agent)** | K8s topology discovery & automated root-cause analysis | Knowledge graph of cluster resources, AlertManager webhook integration, GPU workload classification, blast-radius analysis |
 | **[Golden Kubestronaut Learning](https://github.com/pmady/golden-kubestronaut-learning)** | Kubernetes certification study guides and resources | [#23](https://github.com/pmady/golden-kubestronaut-learning/issues/23) - Dark mode persistence, [#24](https://github.com/pmady/golden-kubestronaut-learning/issues/24) - PDF generation workflow |
@@ -118,6 +120,23 @@ I'm actively developing these open source projects and **welcome contributors** 
 <tr>
 <td width="50%">
 
+### 🐳 [Docker GPU Dashboard Extension](https://github.com/pmady/docker-gpu-dashboard-extension)
+
+[![Stars](https://img.shields.io/github/stars/pmady/docker-gpu-dashboard-extension?style=social)](https://github.com/pmady/docker-gpu-dashboard-extension)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+**Real-time NVIDIA GPU metrics in Docker Desktop**
+
+- 📊 **Live Dashboard** - Utilization, memory, temperature, power
+- 📈 **History Charts** - 2-minute rolling Recharts graphs
+- 🚦 **Alert Thresholds** - Color-coded green/yellow/red
+- 🎭 **Mock Mode** - Develop without GPU hardware
+
+**Tech Stack:** Go, React, Recharts, Docker Extension SDK, NVML
+
+</td>
+<td width="50%">
+
 ### 🧠 [Kube Topology Agent](https://github.com/pmady/kube-topology-agent)
 
 [![Stars](https://img.shields.io/github/stars/pmady/kube-topology-agent?style=social)](https://github.com/pmady/kube-topology-agent)
@@ -166,7 +185,7 @@ I'm actively developing these open source projects and **welcome contributors** 
 
 - **Kubernetes** - Production cluster management, multi-tenancy, and workload orchestration
 - **ArgoCD** - GitOps-driven continuous delivery and application lifecycle management
-- **Docker** - Container image building and runtime management
+- **Docker** - Container runtime, Docker Extensions, Docker Model Runner, Docker Scout
 - **Crossplane** - Kubernetes-native infrastructure provisioning and composition
 
 ### Observability
@@ -204,6 +223,8 @@ Deeply interested in the convergence of **AI/ML and Kubernetes** - enabling orga
 | Title | Publication | Date |
 |-------|------------|------|
 | **[Abstracting AI Infrastructure: Native GPU Scaling for Internal Developer Platforms](https://platformengineering.com/contributed-content/abstracting-ai-infrastructure-native-gpu-scaling-for-internal-developer-platforms/)** | Platform Engineering | May 2026 |
+| **[I Replaced a $3/hr GPU Dev Workflow with Docker Model Runner](https://medium.com/@pavan4devops)** | Medium | May 2026 |
+| **[GPU-Aware Autoscaling for Docker Containers](https://medium.com/@pavan4devops)** | Medium | May 2026 |
 
 ## �📝 Blog
 
