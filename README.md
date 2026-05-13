@@ -222,7 +222,19 @@ Deeply interested in the convergence of **AI/ML and Kubernetes** - enabling orga
 
 | Title | Publication | Date |
 |-------|------------|------|
+| **[Architecting Enterprise GitOps: Scaling Argo CD on OKE](https://cloudnativenow.com/contributed-content/architecting-enterprise-gitops-scaling-argo-cd-on-oke/)** | Cloud Native Now | May 2026 |
+| **[Deploying Docker AI Agents on OCI and OKE](https://cloudnativenow.com/contributed-content/deploying-docker-ai-agents-on-oci-and-oke/)** | Cloud Native Now | May 2026 |
 | **[Abstracting AI Infrastructure: Native GPU Scaling for Internal Developer Platforms](https://platformengineering.com/contributed-content/abstracting-ai-infrastructure-native-gpu-scaling-for-internal-developer-platforms/)** | Platform Engineering | May 2026 |
+| **[Why Enterprise AI Fails: The 4 Infrastructure Bottlenecks Nobody Wants to Talk About](https://www.vktr.com/ai-technology/why-enterprise-ai-fails-the-infrastructure-bottlenecks-nobody-wants-to-talk-about/)** | VKTR | Apr 2026 |
+| **[From public static void main to Golden Kubestronaut: The Art of Unlearning](https://www.cncf.io/blog/2026/04/20/from-public-static-void-main-to-golden-kubestronaut-the-art-of-unlearning/)** | CNCF Blog | Apr 2026 |
+| **[Peer-to-Peer Acceleration for AI Model Distribution with Dragonfly](https://www.cncf.io/blog/2026/04/06/peer-to-peer-acceleration-for-ai-model-distribution-with-dragonfly/)** | CNCF Blog | Apr 2026 |
+| **[The IDP Paradox: Why Your Internal Developer Platform Needs a "Java-First" Strategy](https://platformengineering.com/features/the-idp-paradox-why-your-internal-developer-platform-needs-a-java-first-strategy/)** | Platform Engineering | Apr 2026 |
+| **[The Financial Trap of Autonomous Networks: Scaling Agentic AI in the Telecom Core](https://techblog.comsoc.org/2026/03/30/the-financial-trap-of-autonomous-networks-scaling-agentic-ai-in-the-telecom-core/)** | IEEE ComSoc | Mar 2026 |
+| **[Zero-Trust on OKE: How to Actually Secure Your Clusters With Terraform](https://cloudnativenow.com/contributed-content/zero-trust-on-oke-how-to-actually-secure-your-clusters-with-terraform/)** | Cloud Native Now | Mar 2026 |
+| **[Beyond the Green Checkmark: Using Formal Verification to Stop ArgoCD Drift](https://cloudnativenow.com/contributed-content/beyond-the-green-checkmark-using-formal-verification-to-stop-argocd-drift/)** | Cloud Native Now | Mar 2026 |
+| **[The Efficiency Era: How Kubernetes v1.35 Finally Solves the "Restart" Headache](https://cloudnativenow.com/contributed-content/the-efficiency-era-how-kubernetes-v1-35-finally-solves-the-restart-headache/)** | Cloud Native Now | Mar 2026 |
+| **[Beyond Basic Sync: Why ArgoCD v3 is the Backbone of Modern Platform Engineering](https://platformengineering.com/features/beyond-basic-sync-why-argocd-v3-is-the-backbone-of-modern-platform-engineering/)** | Platform Engineering | Feb 2026 |
+| **[From PagerDuty to 'Agentic Ops': The Rise of Self-Healing Kubernetes](https://cloudnativenow.com/contributed-content/from-pagerduty-to-agentic-ops-the-rise-of-self-healing-kubernetes/)** | Cloud Native Now | Feb 2026 |
 | **[I Replaced a $3/hr GPU Dev Workflow with Docker Model Runner](https://medium.com/@pavan4devops)** | Medium | May 2026 |
 | **[GPU-Aware Autoscaling for Docker Containers](https://medium.com/@pavan4devops)** | Medium | May 2026 |
 
