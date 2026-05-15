@@ -222,6 +222,7 @@ Deeply interested in the convergence of **AI/ML and Kubernetes** - enabling orga
 
 | Title | Publication | Date |
 |-------|------------|------|
+| **[Agentic AIOps: Building the Guardrails for Autonomous Infrastructure](https://www.vktr.com/ai-technology/agentic-aiops-building-the-guardrails-for-autonomous-infrastructure/)** | VKTR | May 2026 |
 | **[Architecting Enterprise GitOps: Scaling Argo CD on OKE](https://cloudnativenow.com/contributed-content/architecting-enterprise-gitops-scaling-argo-cd-on-oke/)** | Cloud Native Now | May 2026 |
 | **[Deploying Docker AI Agents on OCI and OKE](https://cloudnativenow.com/contributed-content/deploying-docker-ai-agents-on-oci-and-oke/)** | Cloud Native Now | May 2026 |
 | **[Abstracting AI Infrastructure: Native GPU Scaling for Internal Developer Platforms](https://platformengineering.com/contributed-content/abstracting-ai-infrastructure-native-gpu-scaling-for-internal-developer-platforms/)** | Platform Engineering | May 2026 |
