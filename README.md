@@ -222,6 +222,7 @@ Deeply interested in the convergence of **AI/ML and Kubernetes** - enabling orga
 
 | Title | Publication | Date |
 |-------|------------|------|
+| **[Shattering the Kubernetes Registry Bottleneck: Scaling Enterprise CI/CD with P2P Mesh Architecture](https://cloudnativenow.com/contributed-content/shattering-the-kubernetes-registry-bottleneck-scaling-enterprise-ci-cd-with-p2p-mesh-architecture/)** | Cloud Native Now | May 2026 |
 | **[The Inference Bottleneck: Architecting Kubernetes Autoscaling for Production LLMs](https://cloudnativenow.com/contributed-content/the-inference-bottleneck-architecting-kubernetes-autoscaling-for-production-llms/)** | Cloud Native Now | May 2026 |
 | **[Agentic AIOps: Building the Guardrails for Autonomous Infrastructure](https://www.vktr.com/ai-technology/agentic-aiops-building-the-guardrails-for-autonomous-infrastructure/)** | VKTR | May 2026 |
 | **[Architecting Enterprise GitOps: Scaling Argo CD on OKE](https://cloudnativenow.com/contributed-content/architecting-enterprise-gitops-scaling-argo-cd-on-oke/)** | Cloud Native Now | May 2026 |
