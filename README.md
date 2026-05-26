@@ -47,6 +47,7 @@ Actively contributing to **CNCF (Cloud Native Computing Foundation)** and **ASWF
 | **[Kubernetes](https://github.com/kubernetes/website)** | Production-Grade Container Orchestration | [#53891](https://github.com/kubernetes/website/pull/53891) - Document deployment.kubernetes.io/* annotations, [#53892](https://github.com/kubernetes/website/pull/53892) - Add kubectl apply view-last-applied documentation |
 | **[TiKV](https://github.com/tikv/tikv)** | Distributed transactional key-value database | [#19225](https://github.com/tikv/tikv/pull/19225) - Add AGENTS.md for AI agent guidance |
 | **[Volcano](https://github.com/volcano-sh/volcano)** | Cloud-native batch scheduling for AI/HPC | [#5095](https://github.com/volcano-sh/volcano/pull/5095) - GPU NUMA topology awareness in scheduler, [apis#229](https://github.com/volcano-sh/apis/pull/229) - Add GPUInfo type to NumatopoSpec CRD, [resource-exporter#12](https://github.com/volcano-sh/resource-exporter/pull/12) - GPU NUMA topology discovery via sysfs |
+| **[HAMi](https://github.com/Project-HAMi/HAMi)** | Heterogeneous AI Computing Virtualization Middleware | [#1893](https://github.com/Project-HAMi/HAMi/pull/1893) - Add unit tests for nvinternal info, mig, and watch packages, [#1909](https://github.com/Project-HAMi/HAMi/pull/1909) - Fix quota rollback when PatchPodAnnotations fails in Filter |
 | **[KEDA](https://github.com/kedacore/keda)** | Kubernetes Event-driven Autoscaling | [keda-docs#1658](https://github.com/kedacore/keda-docs/pull/1658) - Removing metricName from the kedadocs, [#7538](https://github.com/kedacore/keda/issues/7538) - GPU/AI inference scaler architectural analysis |
 | **[Metal³](https://github.com/metal3-io/metal3-docs)** | Bare metal host provisioning for Kubernetes | [#624](https://github.com/metal3-io/metal3-docs/pull/624) - Fix redirect links in tryit.md |
 | **[OpenTelemetry](https://github.com/open-telemetry/opentelemetry.io)** | Observability framework | [#8632](https://github.com/open-telemetry/opentelemetry.io/pull/8632) - Add .NET troubleshooting page |
@@ -62,7 +63,7 @@ Actively contributing to **CNCF (Cloud Native Computing Foundation)** and **ASWF
 | **[RAWtoACES](https://github.com/AcademySoftwareFoundation/rawtoaces)** | RAW to ACES image conversion | [#222](https://github.com/AcademySoftwareFoundation/rawtoaces/pull/222) - Add build developer documentation |
 | **[xSTUDIO](https://github.com/AcademySoftwareFoundation/xstudio)** | Playback and review application | [#186](https://github.com/AcademySoftwareFoundation/xstudio/pull/186) - Fix broken build guide links |
 
-**Total: 26 PRs** across **15 projects** in CNCF and ASWF foundations!
+**Total: 28 PRs** across **16 projects** in CNCF and ASWF foundations!
 
 ### Personal Projects
 
