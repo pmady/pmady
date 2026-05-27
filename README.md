@@ -47,11 +47,12 @@ Actively contributing to **CNCF (Cloud Native Computing Foundation)** and **ASWF
 | **[Kubernetes](https://github.com/kubernetes/website)** | Production-Grade Container Orchestration | [#53891](https://github.com/kubernetes/website/pull/53891) - Document deployment.kubernetes.io/* annotations, [#53892](https://github.com/kubernetes/website/pull/53892) - Add kubectl apply view-last-applied documentation |
 | **[TiKV](https://github.com/tikv/tikv)** | Distributed transactional key-value database | [#19225](https://github.com/tikv/tikv/pull/19225) - Add AGENTS.md for AI agent guidance |
 | **[Volcano](https://github.com/volcano-sh/volcano)** | Cloud-native batch scheduling for AI/HPC | [#5095](https://github.com/volcano-sh/volcano/pull/5095) - GPU NUMA topology awareness in scheduler, [apis#229](https://github.com/volcano-sh/apis/pull/229) - Add GPUInfo type to NumatopoSpec CRD, [resource-exporter#12](https://github.com/volcano-sh/resource-exporter/pull/12) - GPU NUMA topology discovery via sysfs |
-| **[HAMi](https://github.com/Project-HAMi/HAMi)** | Heterogeneous AI Computing Virtualization Middleware | [#1893](https://github.com/Project-HAMi/HAMi/pull/1893) - Add unit tests for nvinternal info, mig, and watch packages, [#1909](https://github.com/Project-HAMi/HAMi/pull/1909) - Fix quota rollback when PatchPodAnnotations fails in Filter |
-| **[KEDA](https://github.com/kedacore/keda)** | Kubernetes Event-driven Autoscaling | [keda-docs#1658](https://github.com/kedacore/keda-docs/pull/1658) - Removing metricName from the kedadocs, [#7538](https://github.com/kedacore/keda/issues/7538) - GPU/AI inference scaler architectural analysis |
+| **[HAMi](https://github.com/Project-HAMi/HAMi)** | Heterogeneous AI Computing Virtualization Middleware | [#1893](https://github.com/Project-HAMi/HAMi/pull/1893) - Add unit tests for nvinternal info, mig, and watch packages |
+| **[KEDA](https://github.com/kedacore/keda)** | Kubernetes Event-driven Autoscaling | [keda-docs#1658](https://github.com/kedacore/keda-docs/pull/1658) - Removing metricName from the kedadocs, [keda-docs#1769](https://github.com/kedacore/keda-docs/pull/1769) - Fix datadog scaler typos across all versions, [#7538](https://github.com/kedacore/keda/issues/7538) - GPU/AI inference scaler architectural analysis |
 | **[Metal³](https://github.com/metal3-io/metal3-docs)** | Bare metal host provisioning for Kubernetes | [#624](https://github.com/metal3-io/metal3-docs/pull/624) - Fix redirect links in tryit.md |
 | **[OpenTelemetry](https://github.com/open-telemetry/opentelemetry.io)** | Observability framework | [#8632](https://github.com/open-telemetry/opentelemetry.io/pull/8632) - Add .NET troubleshooting page |
 | **[kpt](https://github.com/kptdev/kpt)** | Kubernetes-native packaging and resource management | [#4278](https://github.com/kptdev/kpt/pull/4278) - Fix kpt fn doc command for KRM functions expecting input |
+| **[traceAI](https://github.com/future-agi/traceAI)** | Open-source LLM observability SDK | [#165](https://github.com/future-agi/traceAI/pull/165) - Fix exporter shutdown and thread safety in Python SDK, [#166](https://github.com/future-agi/traceAI/pull/166) - Add Go SDK with OpenAI instrumentor |
 
 ### ASWF (Academy Software Foundation)
 
@@ -63,13 +64,13 @@ Actively contributing to **CNCF (Cloud Native Computing Foundation)** and **ASWF
 | **[RAWtoACES](https://github.com/AcademySoftwareFoundation/rawtoaces)** | RAW to ACES image conversion | [#222](https://github.com/AcademySoftwareFoundation/rawtoaces/pull/222) - Add build developer documentation |
 | **[xSTUDIO](https://github.com/AcademySoftwareFoundation/xstudio)** | Playback and review application | [#186](https://github.com/AcademySoftwareFoundation/xstudio/pull/186) - Fix broken build guide links |
 
-**Total: 28 PRs** across **16 projects** in CNCF and ASWF foundations!
+**Total: 31 PRs** across **17 projects** in CNCF, ASWF, and open-source foundations!
 
 ### Personal Projects
 
 | Project | Description | Contributions |
 |---------|-------------|---------------|
-| **[keda-gpu-scaler](https://github.com/pmady/keda-gpu-scaler)** | KEDA External gRPC Scaler for GPU/AI workloads | [![CI](https://github.com/pmady/keda-gpu-scaler/actions/workflows/ci.yaml/badge.svg)](https://github.com/pmady/keda-gpu-scaler) Native NVML metrics, DaemonSet deployment, pre-built scaling profiles (vLLM, Triton, training), Helm chart, scale-to-zero |
+| **[keda-gpu-scaler](https://github.com/pmady/keda-gpu-scaler)** | KEDA External gRPC Scaler for GPU/AI workloads | [![CI](https://github.com/pmady/keda-gpu-scaler/actions/workflows/ci.yaml/badge.svg)](https://github.com/pmady/keda-gpu-scaler) Native NVML metrics, DaemonSet deployment, pre-built scaling profiles (vLLM, Triton, training), Helm chart, scale-to-zero, optional Prometheus metrics endpoint |
 | **[docker-gpu-dashboard-extension](https://github.com/pmady/docker-gpu-dashboard-extension)** | Docker Desktop Extension for real-time GPU monitoring | Real-time NVIDIA GPU metrics in Docker Desktop — utilization, memory, temperature, power draw, historical charts |
 | **[otel-gpu-receiver](https://github.com/pmady/otel-gpu-receiver)** | OpenTelemetry Collector receiver for GPU metrics | NVIDIA GPU metrics via NVML, OpenTelemetry-native, Prometheus exporter, multi-GPU support |
 | **[kube-topology-agent](https://github.com/pmady/kube-topology-agent)** | K8s topology discovery & automated root-cause analysis | Knowledge graph of cluster resources, AlertManager webhook integration, GPU workload classification, blast-radius analysis |
@@ -94,10 +95,11 @@ I'm actively developing these open source projects and **welcome contributors** 
 - 🚀 **Scaling Profiles** - vLLM, Triton, training presets
 - � **DaemonSet** - Per-node GPU metric collection
 - 🔄 **Scale-to-Zero** - GPU-aware idle detection
+- 📈 **Prometheus** - Optional /metrics endpoint (port 9090)
 
-**Tech Stack:** Go, gRPC, NVIDIA NVML, Kubernetes, Helm
+**Tech Stack:** Go, gRPC, NVIDIA NVML, Kubernetes, Helm, Prometheus
 
-**Referenced in** [KEDA #7538](https://github.com/kedacore/keda/issues/7538)
+**Referenced in** [KEDA #7538](https://github.com/kedacore/keda/issues/7538) | [CNCF Blog](https://www.cncf.io/blog/2026/05/27/gpu-autoscaling-on-kubernetes-with-keda-building-an-external-scaler/)
 
 </td>
 <td width="50%">
@@ -223,6 +225,7 @@ Deeply interested in the convergence of **AI/ML and Kubernetes** - enabling orga
 
 | Title | Publication | Date |
 |-------|------------|------|
+| **[GPU Autoscaling on Kubernetes with KEDA: Building an External Scaler](https://www.cncf.io/blog/2026/05/27/gpu-autoscaling-on-kubernetes-with-keda-building-an-external-scaler/)** | CNCF Blog | May 2026 |
 | **[Shattering the Kubernetes Registry Bottleneck: Scaling Enterprise CI/CD with P2P Mesh Architecture](https://cloudnativenow.com/contributed-content/shattering-the-kubernetes-registry-bottleneck-scaling-enterprise-ci-cd-with-p2p-mesh-architecture/)** | Cloud Native Now | May 2026 |
 | **[The Inference Bottleneck: Architecting Kubernetes Autoscaling for Production LLMs](https://cloudnativenow.com/contributed-content/the-inference-bottleneck-architecting-kubernetes-autoscaling-for-production-llms/)** | Cloud Native Now | May 2026 |
 | **[Agentic AIOps: Building the Guardrails for Autonomous Infrastructure](https://www.vktr.com/ai-technology/agentic-aiops-building-the-guardrails-for-autonomous-infrastructure/)** | VKTR | May 2026 |
