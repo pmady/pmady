@@ -1,43 +1,179 @@
-# Hi there, I'm Pavan 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pavan%20Madduri&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=GPU%2FAI%20Infrastructure%20%7C%20CNCF%20Golden%20Kubestronaut%20%7C%20Open-Source%20Builder&descAlignY=55&descSize=18" width="100%" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavanmadduri/)
-[![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://pavanmadduri.wordpress.com/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pavan4devops)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/pavan_madduri)
-[![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/pmady7389)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Pavan-Madduri-2?ev=hdr_xprf)
-![Profile Views](https://komarev.com/ghpvc/?username=pmady&color=blue&style=for-the-badge)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&height=45&lines=Senior+Cloud+Platform+Engineer+%40+Grainger;CNCF+Golden+Kubestronaut+%C2%B7+Oracle+ACE+Associate;31%2B+PRs+across+17+CNCF+%26+ASWF+projects;GPU+scheduling+%C2%B7+KEDA+%C2%B7+Volcano+%C2%B7+HAMi;Published+in+CNCF+Blog+%C2%B7+IEEE+%C2%B7+Platform+Engineering;Building+GPU+autoscalers+for+Kubernetes+at+scale" alt="Typing SVG" />
+  </a>
+</p>
 
-## About Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/pavanmadduri/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://pavanmadduri.wordpress.com/">
+    <img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@pavan4devops">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://dev.to/pavan_madduri">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+  <a href="https://hub.docker.com/u/pmady7389">
+    <img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Pavan-Madduri-2?ev=hdr_xprf">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
+  </a>
+</p>
 
-Senior Cloud Platform Engineer at **W.W. Grainger, Inc.**, **CNCF Golden Kubestronaut**, **Oracle ACE Associate**, and **Dragonfly Community Member**. Deep expertise in cloud-native GPU/AI infrastructure, Kubernetes ecosystems, and platform engineering. Building open-source tools for GPU workload autoscaling, observability, topology-aware incident response, and Docker Extensions for AI/ML developers.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pmady&label=Profile+Views&color=00B4D8&style=flat" alt="profile views" />
+  &nbsp;
+  <a href="https://github.com/pmady?tab=followers">
+    <img src="https://img.shields.io/github/followers/pmady?label=Followers&style=social" />
+  </a>
+</p>
 
-## 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" />
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmady&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&rank_icon=github)](https://github.com/pmady)
+---
 
-*Stats updated on 2026-05-29 14:30 UTC*
+<p align="center">
+  Senior Cloud Platform Engineer building GPU/AI infrastructure at scale.<br/>
+  CNCF Golden Kubestronaut. Oracle ACE Associate. Dragonfly Community Member.<br/>
+  31+ PRs across 17 open-source projects in CNCF, ASWF, and beyond.<br/>
+  If GPUs need scheduling, scaling, or observability on Kubernetes — that's what I build.
+</p>
+
+---
+
+## ⚡ What I'm Building
+
+| | |
+|--------|------------|
+| 🎮 **GPU Autoscaling** | KEDA External Scaler with native NVML metrics, DaemonSet architecture, scaling profiles for vLLM, Triton, and training workloads. Referenced in KEDA #7538 and published on CNCF Blog. |
+| 🔬 **GPU NUMA Topology** | Volcano scheduler plugin for NUMA-aware GPU placement — topology discovery via sysfs, CRD extensions, and cross-socket affinity optimization. |
+| 📡 **GPU Observability** | OpenTelemetry Collector receiver for GPU metrics (NVML-native) and Docker Desktop Extension for real-time GPU monitoring dashboards. |
+| 🧠 **Topology-Aware AIOps** | Knowledge graph of Kubernetes resources with graph-based root-cause traversal, AlertManager webhook integration, and blast-radius analysis. |
+| ☁️ **Platform Engineering** | Kubernetes, ArgoCD, Crossplane, Docker, KEDA — production platforms serving enterprise workloads at scale. |
+| 📝 **Technical Writing** | 19 published articles across CNCF Blog, IEEE ComSoc, Platform Engineering, VKTR, Cloud Native Now, and Medium. |
+
+---
+
 ## 🏆 Certifications & Recognition
 
-![Kubestronaut](https://www.cncf.io/training/kubestronaut/?p=pavan-madduri)
+<p align="left">
+  <a href="https://www.cncf.io/training/kubestronaut/?p=pavan-madduri">
+    <img src="https://img.shields.io/badge/CNCF-Golden_Kubestronaut-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  </a>
+  <a href="https://ace.oracle.com/ords/ace/profile/pavan27">
+    <img src="https://img.shields.io/badge/Oracle_ACE-Associate-C74634?style=for-the-badge&logo=oracle&logoColor=white" />
+  </a>
+  <a href="https://www.cncf.io/people/contributors/">
+    <img src="https://img.shields.io/badge/CNCF-Contributor-172B4D?style=for-the-badge&logo=cncf&logoColor=white" />
+  </a>
+  <a href="https://github.com/dragonflyoss">
+    <img src="https://img.shields.io/badge/Dragonfly-Community_Member-1DB954?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
 
-**Kubestronaut** - One of the elite professionals who have achieved all five Kubernetes certifications from the CNCF:
+> **Golden Kubestronaut** — All five Kubernetes certifications: KCNA, CKA, CKAD, CKS, KCSA
 
-- KCNA (Kubernetes and Cloud Native Associate)
-- CKA (Certified Kubernetes Administrator)
-- CKAD (Certified Kubernetes Application Developer)
-- CKS (Certified Kubernetes Security Specialist)
-- KCSA (Kubernetes and Cloud Native Security Associate)
+---
 
-[![Oracle ACE Associate](https://img.shields.io/badge/Oracle_ACE-Associate-C74634?style=for-the-badge&logo=oracle&logoColor=white)](https://ace.oracle.com/ords/ace/profile/pavan27)
+## 🚀 Featured Projects
 
-**Oracle ACE Associate** - Recognized by Oracle for community advocacy, technical content creation, and knowledge sharing around Oracle products and cloud technologies.
+<table>
+<tr>
+<td width="50%">
+
+### 🎮 [KEDA GPU Scaler](https://github.com/pmady/keda-gpu-scaler)
+
+[![Stars](https://img.shields.io/github/stars/pmady/keda-gpu-scaler?style=social)](https://github.com/pmady/keda-gpu-scaler)
+[![CI](https://github.com/pmady/keda-gpu-scaler/actions/workflows/ci.yaml/badge.svg)](https://github.com/pmady/keda-gpu-scaler)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+**KEDA External gRPC Scaler for GPU/AI workloads**
+
+- 🎮 **Native NVML** — Direct GPU metrics via go-nvml
+- 🚀 **Scaling Profiles** — vLLM, Triton, training presets
+- 📦 **DaemonSet** — Per-node GPU metric collection
+- 🔄 **Scale-to-Zero** — GPU-aware idle detection
+- 📈 **Prometheus** — Optional /metrics endpoint
+
+**Tech:** Go · gRPC · NVIDIA NVML · Kubernetes · Helm
+
+**Referenced in** [KEDA #7538](https://github.com/kedacore/keda/issues/7538) | [CNCF Blog](https://www.cncf.io/blog/2026/05/27/gpu-autoscaling-on-kubernetes-with-keda-building-an-external-scaler/)
+
+</td>
+<td width="50%">
+
+### 📡 [OpenTelemetry GPU Receiver](https://github.com/pmady/otel-gpu-receiver)
+
+[![Stars](https://img.shields.io/github/stars/pmady/otel-gpu-receiver?style=social)](https://github.com/pmady/otel-gpu-receiver)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+**OpenTelemetry Collector receiver for GPU metrics**
+
+- 🔋 **NVIDIA NVML** — GPU utilization, memory, temperature
+- 📊 **OTel Native** — Standard OTLP export pipeline
+- 🖥️ **Multi-GPU** — All devices on the node
+- 📈 **Prometheus** — Built-in Prometheus exporter
+
+**Tech:** Go · OpenTelemetry Collector SDK · NVML
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🐳 [Docker GPU Dashboard Extension](https://github.com/pmady/docker-gpu-dashboard-extension)
+
+[![Stars](https://img.shields.io/github/stars/pmady/docker-gpu-dashboard-extension?style=social)](https://github.com/pmady/docker-gpu-dashboard-extension)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+**Real-time NVIDIA GPU metrics in Docker Desktop**
+
+- 📊 **Live Dashboard** — Utilization, memory, temperature, power
+- 📈 **History Charts** — 2-minute rolling Recharts graphs
+- 🚦 **Alert Thresholds** — Color-coded green/yellow/red
+- 🎭 **Mock Mode** — Develop without GPU hardware
+
+**Tech:** Go · React · Recharts · Docker Extension SDK · NVML
+
+</td>
+<td width="50%">
+
+### 🧠 [Kube Topology Agent](https://github.com/pmady/kube-topology-agent)
+
+[![Stars](https://img.shields.io/github/stars/pmady/kube-topology-agent?style=social)](https://github.com/pmady/kube-topology-agent)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+**K8s knowledge graph & automated root-cause analysis**
+
+- 🗺️ **Knowledge Graph** — Real-time resource topology
+- 🔍 **Root-Cause Traversal** — Graph-based incident investigation
+- 🎮 **GPU Aware** — Training/inference/batch classification
+- 🔔 **AlertManager** — Webhook integration for auto-investigation
+
+**Tech:** Go · Kubernetes API · Gorilla Mux · Helm
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <b>More projects:</b> <a href="https://github.com/pmady/kubeai-autoscaler">KubeAI Autoscaler</a> · <a href="https://github.com/pmady/ingress2gateway">Ingress2Gateway</a> · <a href="https://github.com/pmady/golden-kubestronaut-learning">Golden Kubestronaut Learning</a> · <a href="https://github.com/pmady/llmops">LLMOps</a>
+</p>
+
+---
 
 ## 🌱 Open Source Contributions
 
-[![CNCF Contributor](https://img.shields.io/badge/CNCF-Contributor-172B4D?logo=cncf&style=for-the-badge)](https://www.cncf.io/people/contributors/)
-
-Actively contributing to **CNCF (Cloud Native Computing Foundation)** and **ASWF (Academy Software Foundation)** projects:
+> 31+ PRs across 17 projects in CNCF, ASWF, and open-source foundations.
 
 ### CNCF (Cloud Native Computing Foundation)
 
@@ -64,164 +200,41 @@ Actively contributing to **CNCF (Cloud Native Computing Foundation)** and **ASWF
 | **[RAWtoACES](https://github.com/AcademySoftwareFoundation/rawtoaces)** | RAW to ACES image conversion | [#222](https://github.com/AcademySoftwareFoundation/rawtoaces/pull/222) - Add build developer documentation |
 | **[xSTUDIO](https://github.com/AcademySoftwareFoundation/xstudio)** | Playback and review application | [#186](https://github.com/AcademySoftwareFoundation/xstudio/pull/186) - Fix broken build guide links |
 
-**Total: 31 PRs** across **17 projects** in CNCF, ASWF, and open-source foundations!
+---
 
-### Personal Projects
+## 🧰 Tech Stack
 
-| Project | Description | Contributions |
-|---------|-------------|---------------|
-| **[keda-gpu-scaler](https://github.com/pmady/keda-gpu-scaler)** | KEDA External gRPC Scaler for GPU/AI workloads | [![CI](https://github.com/pmady/keda-gpu-scaler/actions/workflows/ci.yaml/badge.svg)](https://github.com/pmady/keda-gpu-scaler) Native NVML metrics, DaemonSet deployment, pre-built scaling profiles (vLLM, Triton, training), Helm chart, scale-to-zero, optional Prometheus metrics endpoint |
-| **[docker-gpu-dashboard-extension](https://github.com/pmady/docker-gpu-dashboard-extension)** | Docker Desktop Extension for real-time GPU monitoring | Real-time NVIDIA GPU metrics in Docker Desktop — utilization, memory, temperature, power draw, historical charts |
-| **[otel-gpu-receiver](https://github.com/pmady/otel-gpu-receiver)** | OpenTelemetry Collector receiver for GPU metrics | NVIDIA GPU metrics via NVML, OpenTelemetry-native, Prometheus exporter, multi-GPU support |
-| **[kube-topology-agent](https://github.com/pmady/kube-topology-agent)** | K8s topology discovery & automated root-cause analysis | Knowledge graph of cluster resources, AlertManager webhook integration, GPU workload classification, blast-radius analysis |
-| **[Golden Kubestronaut Learning](https://github.com/pmady/golden-kubestronaut-learning)** | Kubernetes certification study guides and resources | [#23](https://github.com/pmady/golden-kubestronaut-learning/issues/23) - Dark mode persistence, [#24](https://github.com/pmady/golden-kubestronaut-learning/issues/24) - PDF generation workflow |
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes,aws,azure,docker,go,prometheus,grafana,githubactions,terraform&perline=9" />
+  </a>
+</p>
 
-## 🚀 Featured Projects - Looking for Contributors!
+<p align="left">
+  <img src="https://img.shields.io/badge/KEDA-326CE5?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Crossplane-1572B6?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Volcano-326CE5?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/HAMi-FF6B35?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat&logo=opentelemetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kyverno-326CE5?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPA-7D3C98?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flux-5468FF?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA_NVML-76B900?style=flat&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/PrestoDB-5890FF?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trino-DD00A1?style=flat&logoColor=white" />
+</p>
 
-I'm actively developing these open source projects and **welcome contributors** of all skill levels!
+---
 
-<table>
-<tr>
-<td width="50%">
+## 📝 Publications
 
-### 🎮 [KEDA GPU Scaler](https://github.com/pmady/keda-gpu-scaler)
-
-[![Stars](https://img.shields.io/github/stars/pmady/keda-gpu-scaler?style=social)](https://github.com/pmady/keda-gpu-scaler)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
-**KEDA External gRPC Scaler for GPU/AI workloads**
-
-- 🎮 **Native NVML** - Direct GPU metrics via go-nvml
-- 🚀 **Scaling Profiles** - vLLM, Triton, training presets
-- � **DaemonSet** - Per-node GPU metric collection
-- 🔄 **Scale-to-Zero** - GPU-aware idle detection
-- 📈 **Prometheus** - Optional /metrics endpoint (port 9090)
-
-**Tech Stack:** Go, gRPC, NVIDIA NVML, Kubernetes, Helm, Prometheus
-
-**Referenced in** [KEDA #7538](https://github.com/kedacore/keda/issues/7538) | [CNCF Blog](https://www.cncf.io/blog/2026/05/27/gpu-autoscaling-on-kubernetes-with-keda-building-an-external-scaler/)
-
-</td>
-<td width="50%">
-
-### � [OpenTelemetry GPU Receiver](https://github.com/pmady/otel-gpu-receiver)
-
-[![Stars](https://img.shields.io/github/stars/pmady/otel-gpu-receiver?style=social)](https://github.com/pmady/otel-gpu-receiver)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
-**OpenTelemetry Collector receiver for GPU metrics**
-
-- 🔋 **NVIDIA NVML** - GPU utilization, memory, temperature
-- � **OTel Native** - Standard OTLP export pipeline
-- � **Multi-GPU** - All devices on the node
-- 📈 **Prometheus** - Built-in Prometheus exporter
-
-**Tech Stack:** Go, OpenTelemetry Collector SDK, NVML
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🐳 [Docker GPU Dashboard Extension](https://github.com/pmady/docker-gpu-dashboard-extension)
-
-[![Stars](https://img.shields.io/github/stars/pmady/docker-gpu-dashboard-extension?style=social)](https://github.com/pmady/docker-gpu-dashboard-extension)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
-**Real-time NVIDIA GPU metrics in Docker Desktop**
-
-- 📊 **Live Dashboard** - Utilization, memory, temperature, power
-- 📈 **History Charts** - 2-minute rolling Recharts graphs
-- 🚦 **Alert Thresholds** - Color-coded green/yellow/red
-- 🎭 **Mock Mode** - Develop without GPU hardware
-
-**Tech Stack:** Go, React, Recharts, Docker Extension SDK, NVML
-
-</td>
-<td width="50%">
-
-### 🧠 [Kube Topology Agent](https://github.com/pmady/kube-topology-agent)
-
-[![Stars](https://img.shields.io/github/stars/pmady/kube-topology-agent?style=social)](https://github.com/pmady/kube-topology-agent)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
-**K8s knowledge graph & automated root-cause analysis**
-
-- 🗺️ **Knowledge Graph** - Real-time resource topology
-- � **Root-Cause Traversal** - Graph-based incident investigation
-- 🎮 **GPU Aware** - Training/inference/batch classification
-- 🔔 **AlertManager** - Webhook integration for auto-investigation
-
-**Tech Stack:** Go, Kubernetes API, Gorilla Mux, Helm
-
-</td>
-<td width="50%">
-
-### 🤝 How to Contribute
-
-1. **Pick a project** that interests you
-2. **Check Issues** labeled `good first issue` or `help wanted`
-3. **Fork & Clone** the repository
-4. **Submit a PR** - I review all PRs promptly!
-
-**All contributions welcome:**
-- 💻 Code contributions
-- 📖 Documentation improvements
-- 🐛 Bug reports
-- 💡 Feature suggestions
-- ⭐ Star the repos!
-
-**More projects:** [KubeAI Autoscaler](https://github.com/pmady/kubeai-autoscaler) · [Ingress2Gateway](https://github.com/pmady/ingress2gateway) · [LLMOps](https://github.com/pmady/llmops)
-
-</td>
-</tr>
-</table>
-
-## ☁️ Cloud Platforms
-
-- **AWS** - Primary cloud platform for production workloads
-- **Azure** - Previous experience with enterprise deployments
-
-## 🔧 Technologies & Tools
-
-### Container Orchestration & GitOps
-
-- **Kubernetes** - Production cluster management, multi-tenancy, and workload orchestration
-- **ArgoCD** - GitOps-driven continuous delivery and application lifecycle management
-- **Docker** - Container runtime, Docker Extensions, Docker Model Runner, Docker Scout
-- **Crossplane** - Kubernetes-native infrastructure provisioning and composition
-
-### Observability
-
-- **Prometheus** & **Grafana** - Metrics collection, alerting, and dashboard visualization
-- **Splunk** - Enterprise log aggregation and security analytics
-- **Datadog** - Full-stack monitoring and application performance management
-- **OpenTelemetry** - Vendor-neutral distributed tracing and telemetry collection
-
-### Policy Management
-
-- **Kyverno** - Kubernetes-native policy engine for security and compliance
-- **OPA (Open Policy Agent)** - Unified policy enforcement across the stack
-
-### CI/CD
-
-- **GitHub Actions** - Cloud-native workflow automation and CI/CD pipelines
-- **Jenkins** - Enterprise CI/CD automation and pipeline orchestration
-- **Flux** - GitOps toolkit for Kubernetes continuous delivery
-- **UrbanCode Deploy** - Enterprise application release automation
-
-### Big Data
-
-- **PrestoDB** & **Trino** - High-performance distributed SQL query engines for analytics
-- **Apache Superset** - Modern data exploration and business intelligence platform
-- **Alluxio** - Unified data orchestration for compute and storage
-- **Jupyter Notebooks** - Interactive data science and machine learning workflows
-
-## 🤖 Interests
-
-Deeply interested in the convergence of **AI/ML and Kubernetes** - enabling organizations to run machine learning workloads at scale on cloud-native infrastructure. Exploring MLOps practices, GPU scheduling, and AI platform engineering.
-
-## � Publications
+> 19 articles published across CNCF Blog, IEEE ComSoc, Platform Engineering, VKTR, Cloud Native Now, and Medium.
 
 | Title | Publication | Date |
 |-------|------------|------|
@@ -245,18 +258,50 @@ Deeply interested in the convergence of **AI/ML and Kubernetes** - enabling orga
 | **[I Replaced a $3/hr GPU Dev Workflow with Docker Model Runner](https://medium.com/@pavan4devops)** | Medium | May 2026 |
 | **[GPU-Aware Autoscaling for Docker Containers](https://medium.com/@pavan4devops)** | Medium | May 2026 |
 
-## �📝 Blog
+---
 
-Sharing insights on DevOps best practices, Kubernetes deep-dives, and cloud-native architecture:
+## 📊 GitHub Stats
 
-👉 **[pavanmadduri.wordpress.com](https://pavanmadduri.wordpress.com/)**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pmady&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=450" height="195" />
+  <img src="https://streak-stats.demolab.com?user=pmady&theme=tokyonight&hide_border=true&card_width=450" height="195" />
+</p>
 
-## 💬 Let's Connect
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmady&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css&card_width=450" height="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pmady&theme=tokyonight&utcOffset=-5" height="300" />
+</p>
 
-Always open to connecting with fellow engineers and enthusiasts in the cloud-native and AI/ML space!
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pmady&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+</p>
 
-- 💬 **Collaborate** - Open an issue or discussion on any of my repositories
-- 🤝 **Partner** - Interested in contributing to CNCF or ASWF projects together
-- 👋 **Network** - Happy to exchange ideas and share experiences
+---
 
-**Let's build something great together!** 🚀
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pmady&theme=tokyo-night&hide_border=true&area=true&area_color=00B4D8&color=00B4D8&line=00B4D8&point=FFFFFF" width="100%" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  Building GPU infrastructure for Kubernetes? Working on CNCF projects? Let's collaborate.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pavanmadduri/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@pavan4devops">
+    <img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://github.com/pmady?tab=followers">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
