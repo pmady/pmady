@@ -262,22 +262,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pmady&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=450" height="195" />
-  <img src="https://streak-stats.demolab.com?user=pmady&theme=tokyonight&hide_border=true&card_width=450" height="195" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmady&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&rank_icon=github)](https://github.com/pmady)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmady&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css&card_width=450" height="300" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pmady&theme=tokyonight&utcOffset=-5" height="300" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pmady&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
-</p>
-
----
-
+*Stats updated on 2026-05-30 01:47 UTC*
 ## 🐍 Contribution Activity
 
 <p align="center">
