@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&height=45&lines=Senior+Cloud+Platform+Engineer+%40+Grainger;CNCF+Golden+Kubestronaut+%C2%B7+Oracle+ACE+Associate;31%2B+PRs+across+17+CNCF+%26+ASWF+projects;GPU+scheduling+%C2%B7+KEDA+%C2%B7+Volcano+%C2%B7+HAMi;Published+in+CNCF+Blog+%C2%B7+IEEE+%C2%B7+Platform+Engineering;Building+GPU+autoscalers+for+Kubernetes+at+scale" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&height=45&lines=Senior+Cloud+Platform+Engineer+%40+Grainger;CNCF+Golden+Kubestronaut+%C2%B7+Oracle+ACE+Associate;IEEE+Senior+Member+%C2%B7+TPC+Member+(CloudCOM%2C+COMM%2C+ICCCN);31%2B+PRs+across+17+CNCF+%26+ASWF+projects;GPU+scheduling+%C2%B7+KEDA+%C2%B7+Volcano+%C2%B7+HAMi;Published+in+CNCF+Blog+%C2%B7+IEEE+%C2%B7+Platform+Engineering;Building+GPU+autoscalers+for+Kubernetes+at+scale" alt="Typing SVG" />
   </a>
 </p>
 
