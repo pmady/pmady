@@ -262,14 +262,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/pmady">
-    <img src="https://github-readme-stats.vercel.app/api?username=pmady&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&rank_icon=github" height="180" />
-  </a>
-  <a href="https://devstats.cncf.io">
-    <img src="https://devstats.app/?username=pmady&theme=cncf" height="180" />
-  </a>
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmady&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&rank_icon=github)](https://github.com/pmady)
+
+*Stats updated on 2026-06-03 16:07 UTC*
 ## 🐍 Contribution Activity
 
 <p align="center">
