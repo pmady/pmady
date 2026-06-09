@@ -59,7 +59,7 @@
 | 📡 **GPU Observability** | OpenTelemetry Collector receiver for GPU metrics (NVML-native) and Docker Desktop Extension for real-time GPU monitoring dashboards. |
 | 🧠 **Topology-Aware AIOps** | Knowledge graph of Kubernetes resources with graph-based root-cause traversal, AlertManager webhook integration, and blast-radius analysis. |
 | ☁️ **Platform Engineering** | Kubernetes, ArgoCD, Crossplane, Docker, KEDA — production platforms serving enterprise workloads at scale. |
-| 📝 **Technical Writing** | 19 published articles across CNCF Blog, IEEE ComSoc, Platform Engineering, VKTR, Cloud Native Now, and Medium. |
+| 📝 **Technical Writing** | 20 published articles across CNCF Blog, IEEE ComSoc, Platform Engineering, VKTR, Cloud Native Now, and Medium. |
 
 ---
 
@@ -234,10 +234,11 @@
 
 ## 📝 Publications
 
-> 19 articles published across CNCF Blog, IEEE ComSoc, Platform Engineering, VKTR, Cloud Native Now, and Medium.
+> 20 articles published across CNCF Blog, IEEE ComSoc, Platform Engineering, VKTR, Cloud Native Now, and Medium.
 
 | Title | Publication | Date |
 |-------|------------|------|
+| **[Stop Wasting GPU Budget: Autoscaling AI Inference on Kubernetes with KEDA](https://cloudnativenow.com/contributed-content/stop-wasting-gpu-budget-autoscaling-ai-inference-on-kubernetes-with-keda/)** | Cloud Native Now | Jun 2026 |
 | **[GPU Autoscaling on Kubernetes with KEDA: Building an External Scaler](https://www.cncf.io/blog/2026/05/27/gpu-autoscaling-on-kubernetes-with-keda-building-an-external-scaler/)** | CNCF Blog | May 2026 |
 | **[Shattering the Kubernetes Registry Bottleneck: Scaling Enterprise CI/CD with P2P Mesh Architecture](https://cloudnativenow.com/contributed-content/shattering-the-kubernetes-registry-bottleneck-scaling-enterprise-ci-cd-with-p2p-mesh-architecture/)** | Cloud Native Now | May 2026 |
 | **[The Inference Bottleneck: Architecting Kubernetes Autoscaling for Production LLMs](https://cloudnativenow.com/contributed-content/the-inference-bottleneck-architecting-kubernetes-autoscaling-for-production-llms/)** | Cloud Native Now | May 2026 |
