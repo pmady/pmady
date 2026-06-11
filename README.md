@@ -261,7 +261,81 @@
 
 ---
 
-## 📊 GitHub Stats
+## � Media Mentions
+
+> Quoted as a subject-matter expert across 11+ publications on enterprise AI, GPU infrastructure, cloud security, and platform engineering.
+
+### Featured & Quoted
+
+| Publication | Article | Quote / Mention |
+|-------------|---------|-----------------|
+| **AI Business** (Informa PLC) | [OpenAI vs. Anthropic vs. Google: But the Model Isn't the Point](https://aibusiness.com/generative-ai/openai-vs-anthropic-vs-google-model-isn-t-the-point) | *"The real dependency risk comes from the orchestration, workflow and data integration layers built around them... Relying on third-party orchestration is where real lock-ins happen."* |
+| **VKTR** (Simpler Media Group) | [Enterprise AI Costs Climb as GPU Demand Outpaces Supply](https://www.vktr.com/ai-technology/enterprise-ai-costs-climb-as-gpu-demand-outpaces-supply/) | *"The architecture that works is a routing layer: simple tasks go to a lightweight SLM, complex reasoning escalates to the frontier model. You stop paying frontier prices for envelope-delivery workloads."* |
+| **Techopedia** (10M+ monthly visitors) | [AI Experts Call for a Reality Check on Allbirds' Pivot](https://www.techopedia.com/allbirds-ai-pivot-criticisms) | *"GPU capacity is genuinely hard to get right now... You can't buy that institutional knowledge with a convertible note and a rebrand."* |
+| **Reworked** (Simpler Media Group) | [AI Agents and the Process Documentation Fallacy](https://www.reworked.co/digital-workplace/how-ai-agents-work-with-bad-process-documentation/) | *"If an AI agent is trained purely by observing the official workflow in the ticketing platform, it's learning a fantasy... You have to fence the AI in."* |
+| **InfoSec Relations** | [Agentic AI is Exposing the Accountability Gap in Cloud Security Governance](https://infosecrelations.com/agentic-ai-is-exposing-the-accountability-gap-in-cloud-security-governance/) | *"We enforce this with Policy-as-Code at the admission layer, so the agent's available responses are constrained by the infrastructure itself, not by a governance doc that someone wrote once and nobody checks."* |
+| **Tech Round** (UK) | [Meta Acquires Moltbook: What Responsibility Do Meta And Regulators Have?](https://techround.co.uk/news/meta-moltbook-responsibility-regulators/) | *"We are building autonomous agents without implementing Zero Trust security... Regulators must urgently pivot to regulating Agentic Privileges."* |
+| **TLDR Newsletter** (3M+ subscribers) | [Featured Mention](https://a.tldrnewsletter.com/web-version?ep=1&lc=03c1762c-6c4a-11ef-8617-b72339eb41fa&p=771ce4be-32fd-11f1-b784-7123e339de54&pt=campaign&t=1775646283&s=bf3f098d7c796bf1235c80d38a18581017e4048001ed4bcc2b5099736b6cbaca) | CNCF GPU autoscaling blog featured to 3M+ subscribers |
+| **Habr** (VKTech / VK Group) | [GPU Auto-Scaling on Kubernetes with KEDA](https://habr.com/ru/companies/vktech/articles/1045975/) | Russian-language adaptation of CNCF blog — 4,500+ views in 13 hours |
+| **Cloud Native Now** (Techstrong Group) | [Stop Wasting GPU Budget: Autoscaling AI Inference on Kubernetes with KEDA](https://cloudnativenow.com/contributed-content/stop-wasting-gpu-budget-autoscaling-ai-inference-on-kubernetes-with-keda/) | Primary author — GPU autoscaling architecture and scale-to-zero for AI inference |
+| **Y Square Technology** | [AI Agent Documentation Reality Gap](https://www.ysquaretechnology.com/blog/ai-agent-documentation-reality-gap) | Quoted on enterprise AI agent deployment challenges |
+
+### CNCF Official Recognition
+
+<table>
+<tr>
+<td width="50%">
+
+**CNCF LinkedIn** (500K+ followers)
+
+> *"Pavan Madduri breaks down how to build a KEDA external scaler via a DaemonSet to query NVML over gRPC directly — cutting metric latency from 15–30s to 2–4s."*
+
+204+ likes · 28 reposts · 3 comments
+
+<!-- ![CNCF LinkedIn GPU Scaler](media/cncf-linkedin-gpu-scaler.png) -->
+
+</td>
+<td width="50%">
+
+**[CNCF Twitter/X](https://x.com/CloudNativeFdn/status/2047197551481307628)** (@CloudNativeFdn)
+
+> *"See how to build a KEDA external scaler via a DaemonSet to query NVML over gRPC directly, with scaling profiles for vLLM, Triton, and training workloads."*
+
+2,122 views · 24 likes · 7 bookmarks
+
+<!-- ![CNCF Twitter GPU Scaler](media/cncf-twitter-gpu-scaler.png) -->
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[CNCF Bluesky](https://bsky.app/profile/cncf.io/post/3mmwmp74rbb25)** (cncf.io)
+
+> *"GPU autoscaling on Kubernetes with KEDA: Building an external scaler"*
+
+Featured across all 3 CNCF social platforms
+
+<!-- ![CNCF Bluesky GPU Scaler](media/cncf-bluesky-gpu-scaler.png) -->
+
+</td>
+<td width="50%">
+
+**CNCF LinkedIn** (500K+ followers)
+
+> *"From public static void main to Golden Kubestronaut: The Art of Unlearning — Pavan Madduri shares his journey through all five Kubernetes certifications."*
+
+26+ likes · 1 repost
+
+<!-- ![CNCF LinkedIn Kubestronaut](media/cncf-linkedin-kubestronaut.png) -->
+
+</td>
+</tr>
+</table>
+
+---
+
+## �� GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmady&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&rank_icon=github)](https://github.com/pmady)
 
