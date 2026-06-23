@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&height=45&lines=Senior+Cloud+Platform+Engineer+%40+Grainger;CNCF+Golden+Kubestronaut+%C2%B7+Oracle+ACE+Associate;IEEE+Senior+Member+%C2%B7+TPC+Member+(CloudCOM%2C+COMM%2C+ICCCN);31%2B+PRs+across+17+CNCF+%26+ASWF+projects;GPU+scheduling+%C2%B7+KEDA+%C2%B7+Volcano+%C2%B7+HAMi;Published+in+CNCF+Blog+%C2%B7+IEEE+%C2%B7+Platform+Engineering;Building+GPU+autoscalers+for+Kubernetes+at+scale" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&height=45&lines=Senior+Cloud+Platform+Engineer+%40+Grainger;CNCF+Golden+Kubestronaut+%C2%B7+Oracle+ACE+Associate;IEEE+Senior+Member+%C2%B7+TPC+Member+(CloudCOM%2C+COMM%2C+ICCCN);31%2B+PRs+across+17+CNCF+%26+ASWF+projects;GPU+scheduling+%C2%B7+KEDA+%C2%B7+Volcano+%C2%B7+HAMi;Published+in+CNCF+Blog+%C2%B7+IEEE+%C2%B7+VKTR+%C2%B7+Platform+Engineering;Building+GPU+autoscalers+for+Kubernetes+at+scale" alt="Typing SVG" />
   </a>
 </p>
 
@@ -59,7 +59,7 @@
 | 📡 **GPU Observability** | OpenTelemetry Collector receiver for GPU metrics (NVML-native) and Docker Desktop Extension for real-time GPU monitoring dashboards. |
 | 🧠 **Topology-Aware AIOps** | Knowledge graph of Kubernetes resources with graph-based root-cause traversal, AlertManager webhook integration, and blast-radius analysis. |
 | ☁️ **Platform Engineering** | Kubernetes, ArgoCD, Crossplane, Docker, KEDA — production platforms serving enterprise workloads at scale. |
-| 📝 **Technical Writing** | 20 published articles across CNCF Blog, IEEE ComSoc, Platform Engineering, VKTR, Cloud Native Now, and Medium. |
+| 📝 **Technical Writing** | 21 published articles across CNCF Blog, IEEE ComSoc, Platform Engineering, VKTR, Cloud Native Now, and Medium. |
 
 ---
 
@@ -234,10 +234,11 @@
 
 ## 📝 Publications
 
-> 20 articles published across CNCF Blog, IEEE ComSoc, Platform Engineering, VKTR, Cloud Native Now, and Medium.
+> 21 articles published across CNCF Blog, IEEE ComSoc, Platform Engineering, VKTR, Cloud Native Now, and Medium.
 
 | Title | Publication | Date |
 |-------|------------|------|
+| **[The Blast Radius of Agentic Ops: Why Autonomous AI Needs Zero-Trust Guardrails](https://www.vktr.com/ai-ethics-law-risk/the-blast-radius-of-agentic-ops-why-autonomous-ai-needs-zero-trust-guardrails/)** | VKTR | Jun 2026 |
 | **[Stop Wasting GPU Budget: Autoscaling AI Inference on Kubernetes with KEDA](https://cloudnativenow.com/contributed-content/stop-wasting-gpu-budget-autoscaling-ai-inference-on-kubernetes-with-keda/)** | Cloud Native Now | Jun 2026 |
 | **[GPU Autoscaling on Kubernetes with KEDA: Building an External Scaler](https://www.cncf.io/blog/2026/05/27/gpu-autoscaling-on-kubernetes-with-keda-building-an-external-scaler/)** | CNCF Blog | May 2026 |
 | **[Shattering the Kubernetes Registry Bottleneck: Scaling Enterprise CI/CD with P2P Mesh Architecture](https://cloudnativenow.com/contributed-content/shattering-the-kubernetes-registry-bottleneck-scaling-enterprise-ci-cd-with-p2p-mesh-architecture/)** | Cloud Native Now | May 2026 |
