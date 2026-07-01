@@ -108,6 +108,28 @@
 </td>
 <td width="50%">
 
+### 🧠 [GPU MCP Server](https://github.com/pmady/gpu-mcp-server)
+
+[![Stars](https://img.shields.io/github/stars/pmady/gpu-mcp-server?style=social)](https://github.com/pmady/gpu-mcp-server)
+[![CI](https://github.com/pmady/gpu-mcp-server/actions/workflows/ci.yml/badge.svg)](https://github.com/pmady/gpu-mcp-server)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+**NVIDIA GPU metrics as MCP tools for AI agents**
+
+- 📡 **MCP Native** — Tools for Claude, Goose, Cursor, Windsurf
+- 🎮 **NVML + MIG** — Full GPU and MIG instance metrics
+- 🧪 **Mock Collector** — Develop and test without GPU hardware
+- 📦 **ghcr.io** — Container image + MCP Registry
+
+**Tech:** Go · MCP SDK · NVIDIA NVML · Docker · Helm
+
+**Published on** [MCP Registry](https://registry.modelcontextprotocol.io) | [ghcr.io](https://ghcr.io/pmady/gpu-mcp-server)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 📡 [OpenTelemetry GPU Receiver](https://github.com/pmady/otel-gpu-receiver)
 
 [![Stars](https://img.shields.io/github/stars/pmady/otel-gpu-receiver?style=social)](https://github.com/pmady/otel-gpu-receiver)
@@ -123,8 +145,6 @@
 **Tech:** Go · OpenTelemetry Collector SDK · NVML
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🐳 [Docker GPU Dashboard Extension](https://github.com/pmady/docker-gpu-dashboard-extension)
@@ -142,6 +162,8 @@
 **Tech:** Go · React · Recharts · Docker Extension SDK · NVML
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🧠 [Kube Topology Agent](https://github.com/pmady/kube-topology-agent)
