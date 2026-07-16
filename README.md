@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/pmady/pmady/main/pavan-madduri-headshot.jpg" alt="Pavan Madduri" width="200" style="border-radius: 50%; border: 3px solid #00B4D8;" />
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&height=45&lines=Senior+Cloud+Platform+Engineer+%40+Grainger;CNCF+Golden+Kubestronaut+%C2%B7+Oracle+ACE+Associate;31%2B+PRs+across+17+CNCF+%26+ASWF+projects;GPU+scheduling+%C2%B7+KEDA+%C2%B7+Volcano+%C2%B7+HAMi;Building+GPU+autoscalers+for+Kubernetes+at+scale" alt="Typing SVG" />
   </a>
@@ -56,7 +60,22 @@
 | 📡 **GPU Observability** | OpenTelemetry Collector receiver for GPU metrics (NVML-native) and Docker Desktop Extension for real-time GPU monitoring dashboards. |
 | 🧠 **Topology-Aware AIOps** | Knowledge graph of Kubernetes resources with graph-based root-cause traversal, AlertManager webhook integration, and blast-radius analysis. |
 | ☁️ **Platform Engineering** | Kubernetes, ArgoCD, Crossplane, Docker, KEDA — production platforms serving enterprise workloads at scale. |
-| 📝 **Technical Writing** | Published across CNCF Blog, Platform Engineering, Cloud Native Now, and Medium. |
+| 📝 **Technical Writing** | Published across CNCF Blog, VKTR, Oracle, Platform Engineering, Cloud Native Now, and Medium. |
+
+---
+
+## 📝 Published Articles
+
+| Publication | Article |
+|-------------|---------|
+| **VKTR** | [Why Kubernetes Can't See Your GPUs — and What We Built to Fix It](https://www.vktr.com/ai-technology/why-kubernetes-cant-see-your-gpus-and-what-we-built-to-fix-it/) |
+| **VKTR** | [Enterprise AI Costs Climb as GPU Demand Outpaces Supply](https://www.vktr.com/ai-technology/enterprise-ai-costs-climb-as-gpu-demand-outpaces-supply/) |
+| **Oracle OU** | [Cutting the AI Bottleneck: Multicloud LLM Distribution with CNCF Dragonfly and OCI](https://community.oracle.com/ou/discussion/24113/cutting-the-ai-bottleneck-multicloud-llm-distribution-with-cncf-dragonfly-and-oci) |
+| **CNCF Blog** | [GPU Autoscaling on Kubernetes with KEDA](https://www.cncf.io/blog/2026/05/27/gpu-autoscaling-on-kubernetes-with-keda-building-an-external-scaler/) |
+| **CNCF Blog** | [P2P-Accelerated AI Model Downloads with Dragonfly](https://www.cncf.io/blog/2026/04/29/supercharging-ai-model-downloads-p2p-accelerated-hugging-face-distribution-with-dragonfly/) |
+| **CNCF Blog** | [Golden Kubestronaut Journey](https://www.cncf.io/blog/2026/04/21/from-platform-engineer-to-golden-kubestronaut/) |
+| **IEEE ComSoc** | [The Financial Trap of Autonomous Networks: Scaling Agentic AI in the Telecom Core](https://techblog.comsoc.org/2026/04/03/the-financial-trap-of-autonomous-networks/) |
+| **CloudNativeNow** | [Inside the Packet: How Kubernetes Networking Actually Works at L3/L4](https://cloudnativenow.com/contributed-content/inside-the-packet-how-kubernetes-networking-actually-works-at-l3-l4/) |
 
 ---
 
