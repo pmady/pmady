@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pavan%20Madduri&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=GPU%2FAI%20Infrastructure%20%7C%20CNCF%20Golden%20Kubestronaut%20%7C%20Open-Source%20Builder&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pavan%20Madduri&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=GPU%2FAI%20Infrastructure%20%7C%20CNCF%20TAG%20Workloads%20Tech%20Lead%20%7C%20Golden%20Kubestronaut&descAlignY=55&descSize=18" width="100%" />
 </p>
 
 <p align="center">
@@ -8,22 +8,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&height=45&lines=Senior+Cloud+Platform+Engineer+%40+Grainger;CNCF+Golden+Kubestronaut+%C2%B7+Oracle+ACE+Associate;31%2B+PRs+across+17+CNCF+%26+ASWF+projects;GPU+scheduling+%C2%B7+KEDA+%C2%B7+Volcano+%C2%B7+HAMi;Building+GPU+autoscalers+for+Kubernetes+at+scale" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&height=45&lines=Senior+Cloud+Platform+Engineer+%40+Grainger;CNCF+TAG+Workloads+Foundation+Tech+Lead+%282026-2028%29;CNCF+Golden+Kubestronaut+%C2%B7+Oracle+ACE+Associate;31%2B+PRs+across+17+CNCF+%26+ASWF+projects;GPU+scheduling+%C2%B7+KEDA+%C2%B7+Volcano+%C2%B7+HAMi;Building+GPU+autoscalers+for+Kubernetes+at+scale" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pavanmadduri/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://pavanmadduri.wordpress.com/">
-    <img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@pavan4devops">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://dev.to/pavan_madduri">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
   <a href="https://hub.docker.com/u/pmady7389">
     <img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -44,7 +35,7 @@
 
 <p align="center">
   Senior Cloud Platform Engineer building GPU/AI infrastructure at scale.<br/>
-  CNCF Golden Kubestronaut. Oracle ACE Associate. Dragonfly Community Member.<br/>
+  CNCF TAG Workloads Foundation Tech Lead (2026-2028). Golden Kubestronaut. Oracle ACE Associate. Dragonfly Community Member.<br/>
   31+ PRs across 17 open-source projects in CNCF, ASWF, and beyond.<br/>
   If GPUs need scheduling, scaling, or observability on Kubernetes — that's what I build.
 </p>
@@ -55,27 +46,11 @@
 
 | | |
 |--------|------------|
-| 🎮 **GPU Autoscaling** | KEDA External Scaler with native NVML metrics, DaemonSet architecture, scaling profiles for vLLM, Triton, and training workloads. Referenced in KEDA #7538 and published on CNCF Blog. |
+| 🎮 **GPU Autoscaling** | KEDA External Scaler with native NVML metrics, DaemonSet architecture, scaling profiles for vLLM, Triton, and training workloads. Referenced in KEDA #7538. |
 | 🔬 **GPU NUMA Topology** | Volcano scheduler plugin for NUMA-aware GPU placement — topology discovery via sysfs, CRD extensions, and cross-socket affinity optimization. |
 | 📡 **GPU Observability** | OpenTelemetry Collector receiver for GPU metrics (NVML-native) and Docker Desktop Extension for real-time GPU monitoring dashboards. |
 | 🧠 **Topology-Aware AIOps** | Knowledge graph of Kubernetes resources with graph-based root-cause traversal, AlertManager webhook integration, and blast-radius analysis. |
 | ☁️ **Platform Engineering** | Kubernetes, ArgoCD, Crossplane, Docker, KEDA — production platforms serving enterprise workloads at scale. |
-| 📝 **Technical Writing** | Published across CNCF Blog, VKTR, Oracle, Platform Engineering, Cloud Native Now, and Medium. |
-
----
-
-## 📝 Published Articles
-
-| Publication | Article |
-|-------------|---------|
-| **VKTR** | [Why Kubernetes Can't See Your GPUs — and What We Built to Fix It](https://www.vktr.com/ai-technology/why-kubernetes-cant-see-your-gpus-and-what-we-built-to-fix-it/) |
-| **VKTR** | [Enterprise AI Costs Climb as GPU Demand Outpaces Supply](https://www.vktr.com/ai-technology/enterprise-ai-costs-climb-as-gpu-demand-outpaces-supply/) |
-| **Oracle OU** | [Cutting the AI Bottleneck: Multicloud LLM Distribution with CNCF Dragonfly and OCI](https://community.oracle.com/ou/discussion/24113/cutting-the-ai-bottleneck-multicloud-llm-distribution-with-cncf-dragonfly-and-oci) |
-| **CNCF Blog** | [GPU Autoscaling on Kubernetes with KEDA](https://www.cncf.io/blog/2026/05/27/gpu-autoscaling-on-kubernetes-with-keda-building-an-external-scaler/) |
-| **CNCF Blog** | [P2P-Accelerated AI Model Downloads with Dragonfly](https://www.cncf.io/blog/2026/04/29/supercharging-ai-model-downloads-p2p-accelerated-hugging-face-distribution-with-dragonfly/) |
-| **CNCF Blog** | [Golden Kubestronaut Journey](https://www.cncf.io/blog/2026/04/21/from-platform-engineer-to-golden-kubestronaut/) |
-| **IEEE ComSoc** | [The Financial Trap of Autonomous Networks: Scaling Agentic AI in the Telecom Core](https://techblog.comsoc.org/2026/04/03/the-financial-trap-of-autonomous-networks/) |
-| **CloudNativeNow** | [Inside the Packet: How Kubernetes Networking Actually Works at L3/L4](https://cloudnativenow.com/contributed-content/inside-the-packet-how-kubernetes-networking-actually-works-at-l3-l4/) |
 
 ---
 
@@ -87,6 +62,9 @@
   </a>
   <a href="https://ace.oracle.com/ords/ace/profile/pavan27">
     <img src="https://img.shields.io/badge/Oracle_ACE-Associate-C74634?style=for-the-badge&logo=oracle&logoColor=white" />
+  </a>
+  <a href="https://github.com/cncf/toc/blob/main/tags/tag-workloads-foundation">
+    <img src="https://img.shields.io/badge/CNCF-TAG_Workloads_Tech_Lead-326CE5?style=for-the-badge&logo=cncf&logoColor=white" />
   </a>
   <a href="https://www.cncf.io/people/contributors/">
     <img src="https://img.shields.io/badge/CNCF-Contributor-172B4D?style=for-the-badge&logo=cncf&logoColor=white" />
@@ -122,7 +100,7 @@
 
 **Tech:** Go · gRPC · NVIDIA NVML · Kubernetes · Helm
 
-**Referenced in** [KEDA #7538](https://github.com/kedacore/keda/issues/7538) | [CNCF Blog](https://www.cncf.io/blog/2026/05/27/gpu-autoscaling-on-kubernetes-with-keda-building-an-external-scaler/)
+**Referenced in** [KEDA #7538](https://github.com/kedacore/keda/issues/7538)
 
 </td>
 <td width="50%">
@@ -291,9 +269,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/pavanmadduri/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@pavan4devops">
-    <img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="https://github.com/pmady?tab=followers">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
